@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="d3.min.js" charset="utf-8"></script>
+    </head>
+    <body>
+    <script>
+
+        var h=100;
+        var w=400;
+        var ds; // global var for data
+
+        function buildLine(){
+          var lineFun = d3.svg.line()
+              .x(function(d){ return (( d.month-20130001)/3.25)})
+              .y(function(d){ return h=d.sales; })
+              .interpolate("linear");
+
+          var svg = d3.select("body").append("svg").attr({ width: w, height:h});
+
+          var viz = svg.append("path")
+                        .attr({
+                          d: lineFun(ds),
+                          "stroke": "purple",
+                          "stroke-width": 2,
+                          "fill": "none"
+                        });
+        }
+
+        d3.csv("data/MonthlySales.csv", function(error,data){
+          if(error) {
+            console.log(error);
+          } else {
+            console.log(data);
+            ds=data;
+          }
+
+          buildLine();
+
+        });
+
+    </script>
+    </body>
+</html>

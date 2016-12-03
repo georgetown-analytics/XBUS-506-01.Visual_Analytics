@@ -11,6 +11,7 @@ The workshops and demos for this course are listed below along with links to mat
 ** Session 1: **
 
 * [PyPlot](https://github.com/georgetown-analytics/XBUS-506-01.Visual_Analytics/blob/master/pyplot/pyplot.ipynb)
+* [Energy Demo](https://github.com/georgetown-analytics/XBUS-506-01.Visual_Analytics/blob/master/seaborn/energy_viz.ipynb)
 * [Titanic Seaborn Tour](https://github.com/georgetown-analytics/XBUS-506-01.Visual_Analytics/blob/master/seaborn/SeabornTour-Titanic.ipynb)
 * [Feature Selection Demo](https://github.com/georgetown-analytics/XBUS-506-01.Visual_Analytics/blob/master/select/feature_selection.ipynb)
 * [Guess the Correlation](http://guessthecorrelation.com/)

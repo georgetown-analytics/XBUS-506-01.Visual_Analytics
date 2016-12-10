@@ -16,3 +16,8 @@ The workshops and demos for this course are listed below along with links to mat
 * [Feature Selection Demo](https://github.com/georgetown-analytics/XBUS-506-01.Visual_Analytics/blob/master/select/feature_selection.ipynb)
 * [Guess the Correlation](http://guessthecorrelation.com/)
 * [Feature Analysis Demo](https://github.com/georgetown-analytics/XBUS-506-01.Visual_Analytics/blob/master/diagnostics/census/predicting_income_with_census_data_pt1.md)
+
+** Session 2: **
+
+* [Model Selection Lab](https://github.com/georgetown-analytics/XBUS-506-01.Visual_Analytics/blob/master/select/model_selection.ipynb)
+* [Bokeh Lab](https://github.com/georgetown-analytics/XBUS-506-01.Visual_Analytics/tree/master/bokeh)

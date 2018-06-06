@@ -1,6 +1,6 @@
 # Predicting Income, Part 1: Feature Analysis and Selection for Machine Learning
 **An end-to-end machine learning example using Pandas and Scikit-Learn**    
-_by Benjamin Bengfort and Rebecca Bilbro, adapted from a [post](http://blog.districtdatalabs.com/building-a-classifier-from-census-data) originally written for the [District Data Labs blog](http://blog.districtdatalabs.com/)_      
+_by Benjamin Bengfort and Rebecca Bilbro, adapted from a [post](https://www.districtdatalabs.com/building-a-classifier-from-census-data) originally written for the [District Data Labs blog](https://www.districtdatalabs.com/blog)_      
 
 One of the first steps for many of those to getting into data science is learning how to build simple machine learning models using an open data set. For those who are interested in experimenting with building classification, regression, or clustering models, the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.html) is a great resources for open datasets that have already been conveniently categorized by the most appropriate machine learning tasks.
 
@@ -303,4 +303,4 @@ These types of visual analyses can be very useful for unpacking an unfamiliar da
 ## Next Steps
 While Part 1 of this tutorial has focused on how to unpack and explore a dataset to prepare for machine learning, Part 2 will move on to demonstrating how to set up the data management, extraction, encoding, and transformation needed to power our command line application. For example, because we will be using the machine learning library Scikit-Learn to generate our predictions, our next steps will include transforming our feature vectors into a form that can be computed upon numerically (which is required for the Scikit-Learn API). We'll do this in a systematic way that can support the kind of robust, automated ingestion-and-prediction cycle that would be required for a machine-learning based application. We'll also introduce the concept of "pipelines" as a way to systemize the series of steps in the machine learning workflow that transform raw data into a data product, and which represent an important step away from machine learning for research purposes and towards an operationalized framework for machine learning.
 
-Check out Part 2 [here](https://github.com/CommerceDataService/tutorial-predicting-income/blob/master/predicting_income_with_census_data_pt2.md)!
+Check out Part 2 [here](https://github.com/georgetown-analytics/XBUS-506-01.Visual_Analytics/blob/master/diagnostics/census/predicting_income_with_census_data_pt2.md)!

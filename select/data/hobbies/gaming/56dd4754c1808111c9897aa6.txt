@@ -1,0 +1,163 @@
+We’re Butterscotch Shenanigans, a three-brother indie studio based out of St. Louis, home of a low cost-of-living and the vibrant St. Louis Game Dev Co-op.
+
+We use GameMaker: Studio and Inkscape to make games so fast that we have to constantly cover our faces with Neosporin to treat the windburn.We’ve been around since the last breaths of 2012 when we left our jobs with nothing but some savings and some dreams of making it in the games industry.
+
+Leading up to the launch of Crashlands, our first foray into the PC games market, we’d launched four titles on mobile, garnering around 4.5 million players between them. The average time for the production of those four titles was < 49 work days.
+
+
+
+Crashlands was meant to be our mic drop, the thing that would put us on the path to being a sustainable indie studio. It’s a crafting-ARPG that brings together aspects of all our favorite games, culminating in 40+ hours of story-driven content spanning a massive procedural world.
+
+It took much longer than our previous projects to make (2 years in full), and released on January 21st simultaneously across Steam, iTunes, Google Play, and Humble, along with a service that lets players play the same save across all platforms.
+
+VIDEO
+
+Crashlands got some love from the storefronts, including a Steam pop-up ad and the iPad “Editor’s Choice” banner on iTunes. During launch, the only game ahead of us on the mobile paid charts was Minecraft, and Crashlands now ranks among the best games on iOS according to Metacritic. (Its PC Metascore is much lower, clocking in at a salty 77, despite a 93% rating on Steam from users. We’ll come back to that later.)
+
+Crashlands has been successful enough for us to begin making plans to grow the studio, and to continue making games for at least a few more years. But being successful enough certainly doesn’t mean we did it all right. Not even close.
+
+This article recounts what we think were the good and bad decisions we made over Crashlands’ two years of development.
+
+What went wrong
+
+1) Inception, or: Let's compete with Don't Starve!
+
+Most companies won’t want to say they got it wrong at the start, but it’s safe to say on some level that we did. The design of Crashlands and its goal for us as a studio was to create a huge, open-world adventure that came with a massive pile of content and tons of story, driven by crafting and combining our favorite elements from greats like Diablo, Pokemon, and Terraria.
+
+The initial spark was caused by some serious life events; it wasn’t driven by any market research, but by the need to create something big and meaningful to us as people.
+
+A very, very early screenshot. Good GOD this game was ugly.
+
+This isn’t inherently a bad thing, as the game did that job well and was exactly what we needed it to be. But from a business perspective, we screwed up.
+
+The market reality is that we made a cartoony, crafting-centered game that has the same visual perspective as Klei’s wildly successful, cartoony, and crafting-heavy game Don’t Starve. While it’s true that anyone who plays both games will tell you there are more differences than similarities, that’s irrelevant when people don’t want to try out our “clone” in the first place!
+
+The Lesson: We didn’t manage to hit one of the most important rules for indie game development - Don’t Compete! Our next title will be designed at the outset to be as different from existing games as we can manage. While there is phenomenal merit in attempting to expand a genre, the byline of “It’s kinda like X, but we pinky-swear it’s not just a clone!” doesn’t work as well as offering something unambiguously unique -- especially if everyone is already happy with X.
+
+2) Platform Bias, or: Mobile is a dirty word
+
+The difference between the mobile and PC markets is staggering. Not in size, market cap, or the type of gamer that thrives in either, but in their perception of one another.
+
+Because Crashlands was designed to be as similar as possible on mobile and PC, many PC reviewers and prospective players presumed that the title must have had to sacrifice both form and function to fit on mobile (“it’s just a port of a crappy mobile game!” they yell, knowing nothing about it except that it exists on mobile).
+
+Some reviewers seemed determined to dislike the game, and took the opportunity to blame features they didn’t like as being mobile concessions. We severely overestimated our ability to overcome this bias with our own messaging.
+
+An early view of the worldmap, generated with Perlin Noise.
+
+
+
+The Lesson: Be aware of how your audience will perceive your game and work with, or around it, rather than in opposition to it. In our case, this may mean launching our next title on Steam first, then on mobile.
+
+3) PC Localization, or: When in Rome
+
+One thing that completely caught us off guard with the PC launch was the number and intensity of requests for options to adjust every aspect of the game. We designed the game around its control scheme, and around many of the other options that PC gamers wanted to change. We believed (and still believe) that different control schemes would lead to a worse gameplay experience, so why even make that an option?
+
+Of course, the absence of controller and WASD control schemes were not taken as signs that the game was designed to be played a certain way; their absence was instead taken as evidence that Crashlands is just a bad PC port of a mobile game.
+
+The terrain was reformed halfway through dev to be less blocky and hideous.
+
+The Lesson: In future games, we’ll be adding as many control schemes and other options as we can, from the start. Even if we think the additional schemes aren’t as good. The presence of options are important to people, more so than the value of the options themselves. It is important to “localize” the game for every platform in order to make sure players feel like it truly belongs there.
+
+4) Embargo Break, or: OH GOD EVERYTHING IS ON FIRE
+
+We handle all of our own PR and outreach. Crashlands was the first time we got to work with youtubers, and overall it was a lovely experience. After speaking with some of them individually we discovered that they’re frequently overworked and really appreciate having extra time to review and develop a series before it launches. With this in mind, we bumped our press release date up from 4 days prior to launch to 14, which was met with a lot of praise and gratitude from the youtubers we hoped would cover Crashlands.
+
+However, 5 days after we sent out the Steam codes (to over 600 people) a Let’s Play was accidentally posted by a prominent Youtuber.
+
+This was simultaneously great and terrible news. It was great because we had no mindshare in the youtube space, so getting one youtuber on board felt like we might make something of it. It was terrible because launch was 9 days away, which from all our reading was WAY TOO DAMN FAR for coverage to start flowing.
+    
+When we couldn’t get ahold of the youtuber and found out he’d left for vacation the day of posting (and had scheduled a series of episodes to auto-publish daily), we freaked out a bit. Given that we didn’t know how this would affect the launch we wanted to sit on it and see what happened. A day later we started getting angry notes from other youtubers, some big and some small, who were upset that we’d given exclusive access to the embargo breaker (which we hadn’t). They were threatening to not cover the game at all in response to this perceived injustice.
+
+This, too, was simultaneously great and terrible. Great because we were beyond pleased to have one youtuber cover the game, so to have a dozen knocking at the door felt amazing! But terrible because our potential relationship with them was damaged from the start. After working on a game for 2 years, success-threatening events like this can REALLY get your blood pumping.
+
+We resolved this by sending out an emergency email to life the Let’s Play / Preview Embargo immediately, which seemed the only safe move.
+
+The Lesson: Hold your press announcements (with game keys) for at most 10 days before launch, and make the embargo language big, bold, and prominent in the email. Most reviewers/youtubers open an email, grab the key, and go, so they need to be able to see the embargo dates without scrolling or anything.
+
+5) Channel Overload, or: WE'RE DROWNING MAKE IT STOP
+
+Once the game launched we were receiving a flood of support, bug, press, and fan contact through a dozen different channels: Forums, Steam Forums, Reddit (3 different subreddits), Twitter, Facebook, our contact form, our support form, and each of our individual emails. It was a lot of communication for any individual channel, let alone multiplied across all of them. Suddenly our lives were consumed with simultaneously fixing bugs, helping users troubleshoot, writing up interview answers, reading and spreading new reviews about, and trying not to die.
+
+We’ve since consolidated all our channels down to a single contact form. How?! By shutting down our Facebook page’s messaging and posting a big ol’ note on Twitter that said that we’re not using it on the regular (temporarily). While we love Twitter it retains no community or cultural memory and so is a bottomless pit of answering the same questions repeatedly. We now use it just to chat and make jokes, which is way better.
+
+The Lesson: Be prepared at launch for an influx of communications with a clear primary channel that delivers the messages to appropriate team members, so you can continue making progress.
+
+What went right
+
+
+
+That’s all the bad stuff. At least, that's all the bad stuff we didn’t block from memory. The launch actually went incredibly well, and we’re happy with Crashlands’ performance on all the platforms.
+
+That being said, we’re still completely humbled when we look at the launch statistics for other games (Stardew Valley, you glorious beast). We’ve got plenty of work to do going forward.
+
+But here’s the stuff we did well this time around.
+
+1) BETA, or: This game is broke as f**k
+
+Adam, our back-end/tools developer, is a PhD in molecular biology. He argued for a beta to both uncover bugs and find any weakpoints in the game’s overall design. The rest of the crew was initially hesitant at taking a large chunk of time to do the beta -- We were so close to being done! But Adam’s arguments eventually won out.
+
+The Beta saved Crashlands. The game, in its entirety, has between 40-60 hours of content. While each of us had played it up until launch and found it to be acceptably stable, the Beta showed us how hilariously wrong we were. 
+
+Our 170 or so beta testers submitted over 2,000 bugs, feedback items, and general suggestions over four weeks. 2,000! That’s thousands of bug reports we didn’t have to fret over during launch, and thousands of opportunities to give our players a much better experience.
+
+We also changed many of the game’s systems and did the final balance pass at this time. It honestly took the game from good to great.
+
+The Lesson: Beta test the hell out of your game. It’s not nearly as good or as ready as you think it is.
+
+2) Story tools, or: Getting that Jetfuel
+
+Crashlands contains an epic narrative that effectively spans those 40-60 hours of content. It’s like a small book -- over 50,000 words of dialogue. And it was written, coded, and edited in just over three months by two people.
+
+This is all because of the Crashlands Creator, the back-end narrative tool that Adam developed. It has a steep learning curve to it, but once we were up to speed with its operation the tool made adding stories almost an equal-time exercise, meaning that one hour of dev time could equal one hour of story time, in some cases. This freed Seth, our games programmer, to continue adding content to the game and fixing bugs up until release, without ever having to touch elements of the narrative structure.
+
+It will also let us turn the creation of additional content over to our community, which will continue to provide value to our players long after we’ve moved on to our next title!
+
+The Lesson: Tools are an understated necessity of gamedev. Take the time to build the right tools to let your whole team take flight.
+
+3) Three-way cloud launch, or: All the giants smiled at us
+
+Success is highly dependent not just on traditional press and Youtubers/streamers, but on the storefronts themselves.
+
+Launching on all 3 platforms simultaneously was a key part of our strategy, as it let us take advantage of Crashlands’ crossplatform saving capability, which lets players play it on their PC/Mac and then continue playing the same save on their Android or iOS device.
+
+While we had brief contact with each storefront, it was never a given that any of them would listen to us or care about Crashlands’ launch. Come January 21st, each one of them gave us some form of a nod that helped visibility massively: On iTunes, this was Editor’s Choice for the iPad all over the world; on Google Play, an icon in their New Games section; and on Steam, a pop-up ad that lasted through the weekend.
+
+No amount of marketing we could pay for (which, by the way, was zero) would ever have the effect that the buy-in of the platforms got us. The visibility also helped fuel the general hype-fire around the game on other platforms beside the one it was on, which was an added bonus.
+
+The Lesson: Focus PR effort as much on the Platforms you’re launching on as the press you’re seeking coverage from.
+
+4) PR Coverage, or: This better be all over everything
+
+We sent thousands of emails (literally) leading up to launch to get traditional press (like Polygon, PC Gamer, RPS, IGN, TouchArcade, Gamezebo, etc.) on board. We also sent thousands of emails to both youtubers and streamers.
+
+We sent so many damn emails.
+
+And on launch-day we got coverage in a ton of publications. Thanks to the Youtube embargo being broken, we also had tons of streaming and youtuber coverage on launch-day where people were a hefty way through the game.
+
+We even got a bunch of industry and media people tweeting about it! 
+
+
+
+We managed to get the game out in front of tons of people using only our words and a ridiculous amount of work.
+
+The Lesson: If you’re doing PR yourself, be prepared to send an immense amount of email. Most of them will be completely ignored, but you must follow-up at least once (we suggest two or three times) before giving up. Do not be afraid to sell your game and promote your work.
+
+5) Commitment, or: Skin in the game
+
+We’re three brothers. Things got really hard a bunch of times during Crashlands’ development, but we’re all committed to one another, Butterscotch, and the project. Without that level of commitment there’s an exceptionally low probability that this game, which from a technical perspective we COULDN’T EVEN MAKE when we first started development, would ever have been finished. That it went on to claim one of the top Metacritic spots on iOS for all of time, and earned itself a good spot in the PC pile as well, is a testament to this commitment.
+
+We intend on keeping that same level of commitment to one another as a cornerstone of Butterscotch going forward, because we’ve seen the power it can bring to both the creative and production sides of game development.
+
+The Lesson: Game dev is really hard. Life is sometimes hard, too. Commit to your project, your team, and your studio. The presence of just one sturdy anchor can make weathering storms possible.
+
+Conclusion
+
+We’re extremely proud of Crashlands. It marks what we consider the first true success of our studio, will let us continue making games as well as grow, and has earned us a bunch of new fans and followers.
+
+But we know there’s about a thousand things we could do better - and in the future, we will. Watching other games launch since we went live has been truly humbling. We’ve got a lot to learn, and by focusing on our processes, relationships, and the power of the universe we’re creating, we think we can make the next one even better.
+
+To those of you in the gamedev trenches right now - we hope there are some good nuggets of wisdom (or Wiznugs, as we call them) to help you here. If you’ve got a question about something feel free to reach out. We’re happy to lend our thoughts.
+
+Oh, and if you’re going to GDC, say hey when you see these three chumps walking around all doe-eyed.
+
+

@@ -1,0 +1,12 @@
+{
+  "features": [
+      "shape",
+      "surface",
+      "color"
+  ],
+  "target": "target",
+  "labels": {
+      "edible": 1,
+      "poisonous": 0
+  }
+}

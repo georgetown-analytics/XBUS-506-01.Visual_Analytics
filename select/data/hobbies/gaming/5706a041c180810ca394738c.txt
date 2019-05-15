@@ -1,0 +1,19 @@
+
+
+Blizzard has reportedly fired a warning shot over a major unauthorized World of Warcraft server. The group running the Nostalrius “vanilla” server says its internet service provider has received cease and desist notices from the publisher’s United States- and France-based attorneys.
+
+Nostalrius has been up and running for over a year and will be shut down on April 10. Unauthorized servers are a clear violation of the World of Warcraft terms of service, and it appears that the group’s activities violate elements of the TOS that expressly prohibit this kind of thing.
+
+The group behind the effort says it will continue to provide the means for players to create their own servers. The source code will be made available, and anonymized player data will provided so the community can decide how it wants to proceed. It’s not clear yet how Blizzard feels about these developments (but we’ve inquired).
+
+The Nostalrius team has also created a petition in hopes of getting Blizzard to change its policy regarding private servers that capture older game states. The group says that it has 800,000 registered users, 150,000 of which are still active.
+
+We’ll update should Blizzard respond to our request for comment.
+
+[Source: Nostalrius via Eurogamer]
+
+ 
+
+Our TakeThe Nostalrius petition essentially asks Blizzard to forego revenue related to its brand and products so that people can circumvent subscriptions. The document admits that there might be copyright issues while the group also claims it didn’t see itself as a threat to the publisher. I don’t expect Blizzard to budge on this, nor should it for the sake of protecting its brand.
+
+

@@ -1,0 +1,9 @@
+Last week it emerged that some HTC Vive owners had been using an unofficial plug-in to run Oculus Rift exclusives like Lucky's Tale and Oculus DreamHack on their SteamVR-powered headsets. 
+
+The plug-in, released by LibreVR through GitHub and dubbed "Revive", allowed Vive users to play Oculus titles by "re-implementing functions from the Oculus Runtime and translating them to OpenVR calls."
+
+Those using the plug-in were also required to bypass Oculus' code signing check, a move that likely violated the Oculus Home end user license agreement. 
+
+At the time Oculus wasn't sure how to respond, but has now made its views crystal clear, branding the plug-in a "hack" and telling users that future updates will render it useless. 
+
+"This is a hack, and we don't condone it," said the VR outfit, speaking to GamesIndustry.biz. "Users should expect that hacked games won't work indefinitely, as regular software updates to games, apps, and our platform are likely to break hacked software."

@@ -1,0 +1,11 @@
+Today Valve sent a message to developers and publishers, as well as Gamasutra, that the company plans to augment Steam with support for Bitcoin payments in the near future.
+
+At first blush this seems to mean very little for how Steam developers sell their games, as the aforementioned message states that Valve will use a third-party Bitcoin processor and will never manage Bitcoin itself or ask developers to do so.
+
+Instead, the processor will translate a game's local price into Bitcoin on the fly, accept that from the customer, then pay Valve in non-crypto currency. If this third-party processor takes a cut of the business for its trouble, there's no indication (yet) that such a cut would affect a developer's earnings.
+
+"Bitcoin is becoming an increasingly popular online payment method in some countries, and we’re enabling a system that insulates partners from risk and volatility while still providing value to the end customer," reads a portion of the message Valve provided to Gamasutra. 
+
+The notion of Steam gaining Bitcoin support is also notable in light of comments made by Valve chief Gabe Newell on Reddit two years ago, when he expressed concern about the stability of crypto-currencies in response to a question about whether Steam would ever support them.
+
+Since then, Bitcoin has gained a bit more traction in the game industry; earlier this year, for example, online game storefront Humble Bundle began to accept Bitcoin payments for many of its game bundles, though it does have some restrictions. 

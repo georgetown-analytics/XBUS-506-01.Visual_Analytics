@@ -1,0 +1,100 @@
+Even though the HTC Vive is just launching this week, I’ve covered the SteamVR-powered virtual reality system quite a bit over the past couple of years. Though the Oculus Rift has been an incredibly interesting story (a story afforded by the transparency of that system’s development from prototype to final product) it was always the idea of walking around a "holodeck," reaching out, and grabbing things with your hands and moving in a virtual space that was the most appealing to me.
+
+What the Vive has been all about since it first came to light is holodeck-inspired room-scale VR. That’s not to say Oculus doesn’t have plans for this kind of experience. I played some room-scale games last month that used the Oculus Touch, and they worked just as well as Vive demos. But Vive is here now, and it delivers a room-scale experience that is closer to the promise of VR.
+
+So now that the Vive is available to consumers, let’s take a closer look (Vive provided by Valve):
+
+Buyer experience
+
+Let’s get one thing out of the way that many of our readers recognize: The Vive (and the Rift for that matter), are prohibitively expensive, and that’s going to limit the size of the market for this new generation of VR. You can argue all day that $800 is a good deal for what the Vive is, but for the mass market, $800 is $800. Nothing puts a damper on my fanboying about VR as much as when someone says “That’s cool! How much?” The scoffs become tangible (yes you can reach out and touch the scoffs) even before you get to the part about how you also need to buy a PC that costs $1000-$1500 and start scouting for a bigger apartment.
+
+
+No, I won't do an unboxing for you.
+
+I won't do a complete “unboxing” of the Vive here, but I will say that the consumer version was surprisingly easy to set up. HTC’s setup tutorial and Valve’s SteamVR Room Setup app are straightforward, and don’t have a load of complicated steps. The room-scale setup (you actually have a choice between a room-scale, or if you have little space, a standing or sitting setup process) involves recognizing the HMD and controllers, identifying where your monitor is (point at it and hold down the trigger), tracing your play space (just walk around the perimeter of the area while holding the trigger), and you’re good to go. Make sure to get that floor calibration right, or else you’ll end up underneath the virtual floor of a slanted room, or about two and a half feet tall.
+
+
+
+You're now ready to have a dance party around a person who's wearing a mask.
+
+If you can set up a desktop computer’s wiring, you can handle the Vive’s wires. Setup can be completed within an hour. (I took a bit longer because I needed to figure out how to get my Lighthouse base stations to the required height without committing to permanent wall-mounting (wall mounts included).)
+
+
+
+
+
+Not necessarily recommended (but it worked).
+
+One consumer obstacle that this generation of VR may never overcome is the physical space needed to perform room-scale VR. Yes, there are developers who have and are working hard on different solutions for scaling their games for various sizes of rooms (as stated, Vive’s room setup also has a standing/sitting calibration wizard), but for the type of VR that Vive requires, you do need some space, and not everyone has that.
+
+On a hardware sidenote, the rig I’m using was last rebuilt in late 2011 (originally built in 2007) and prior to my VR upgrade quest had an i5-2400 3.1 GHz Quad Core processor, and a Radeon HD 6950 1 GB graphics card. That falls short of the Vive’s Intel i5-4590 or AMD FX 8350 CPU/Nvidia GeForce GTX 970 or AMD Radeon R9 290 GPU minimium requirement.
+
+I bought the required $300 GeForce GTX 970, still expecting to pay $200 more dollars for the 0.2 more GHz of an i5-4590. But after running Valve’s own VR performance test, it said my rig was VR ready, even with the i5-2400 I bought just over four years ago. VR game performance on my PC has been just as good as any official demo I’ve done, proving out the fact that VR performance is much more about the capabilities of your GPU rather than your CPU.
+
+Stardew Valley is gonna look SO GOOD. pic.twitter.com/P2ZsE1VlWM
+
+Selling games on Vive
+
+If you’re familiar with Steam’s Big Picture mode, you’re familiar with the storefront. HTC also has a Vive client from which you can launch your games, but most people will use the SteamVR interface. You don’t need to take off the HMD to buy and download VR games, and VR games are curated under a VR showcase section. (On Steam’s storefront, games developed with Oculus in mind are marked with the Oculus “O”, Vive-focused games are marked with the Vive triangle – some are marked with both.) Buying and downloading games is just as easy as it is on Steam’s 2D storefront.
+
+Let’s talk about discoverability. Incredibly crowded digital marketplaces are one of the factors that most concerns developers releasing games today. How can you make money if no one can discover your game? One advantage of making games for VR is that it isn’t mass market right now – there is relatively little competition in this blue ocean. Prior to launch, Steam made about 50 games and demos available to press. This week, Valve assured us there would be “roughly double” that available on launch day.
+
+
+
+For a new platform launch, that’s an impressive amount of titles, but when comparing that amount to how many games you’re competing against on mature app stores, that’s not even beans. It’s hard to say how long that blue ocean will last, but prohibitively-priced hardware that has a limited but not-small market combined with an enthusiastic consumer base that has disposable income might be a good place to be if you’re a small developer who happens to have a good VR game.
+
+That’s not to say that a “good” VR game is guaranteed to make you lots of money today, but at least experimenting in VR, even in a non-commercial capacity, can put you in a better position to capitalize on the VR market as opposed to completely ignoring it. The audience for new-gen VR is a very enthusiastic one, and I suspect a nice chunk of that audience will become money-spending VR evangelists. When I spoke with Oculus founder Palmer Luckey last month, he predicted that yes, there will be some games that don’t sell, but there will likely be breakout hits as well. I think he’s probably right, and that that’ll be true of the Vive, too.
+
+Making games for Vive
+
+A couple months ago, I had the opportunity to spend a day with Vive developers at a Valve event and they gave me a broad overview of developing for room-scale VR. This is what they told me:
+
+Alex Schwartz, CEO, Owlchemy Labs (Job Simulator 2050)
+
+“You can never know how good something’s going to be in VR until you try it out with a headset, with your hands, and it either clicks or it doesn’t. That means the fastest you can iterate is the best route for development. We’re not going to sit down and write a [game design document], because it’s going to be wrong. We just try it out in VR.”
+
+Richard Stitselaar, creative director, Vertigo Games (Arizona Sunshine)
+
+“If you design a game for VR, it should be VR-only. If you take a [non-VR] zombie shooter and think ‘Oh, lemme port that to VR,’ it doesn’t work. The rules have totally changed in game design, at least if you’re building from the ground up for VR…You need to set the rules for yourself.”
+
+Dylan Fitterer (Audioshield)
+
+“You really, really have to watch framerate. You don’t wanna make yourself sick. Also, go for quantity. Try a lot of different things, new concepts. Don’t let yourself fall into one rut too soon.”
+
+Joachim Holmér, co-founder, Neat Corp (Budget Cuts)
+
+“Ditch everything you know about game design, and just try to think of everything as new. Do a lot of experimentation, a lot of playtesting, and a lot of prototyping. There are so many turns you take during the design process…There are so many things you have to rethink. Just playtest everything.”
+
+Joel Green, producer, Cloudhead Games (The Gallery: Six Elements)
+
+“I came from BioWare before this, making Dragon Age and Mass Effect and those kinds of games. The biggest thing with VR development is, not throw away, but be very flexible with a lot of the rules that you’re used to with game development. You have to be super experimental and be willing to accept that a lot of the old ways of doing things just do not work at all anymore. You have to go back to the drawing board. Everybody I see who came to VR development from the triple-A community, or just from non-VR development, they kind of go through this process of letting go of all the things they hold onto really tightly, because you spent your career learning all these things and you have a bit of pride in the fact that you know what you’re doing. And then you get into VR, it’s like, actually you don’t [know what you’re doing].”
+
+Lindsay Jorgensen, artist, Radial Games/Northway Games (Fantastic Contraption)
+
+“For us, [our big lesson] is a comfort level thing. You have to be very, very careful about making your environment a nice place if you expect somebody to stay there for any length of time. That’s because as opposed to something on the screen, stuff in VR has a times-one-million multiplier on mood and effect on the person. There’s going to be a lot of jump scare games, and those are going to be really scary, because [the scares are] right there. In Contraption, we wanted it to be a place where you stay for maybe two hours to think about a problem. We wanted you to be comfortable—it’s nice [in the game], it’s sunny, it’s a friendly place to be. Keep it nice…and don’t make people sick!”
+
+Justin Liebregts, CTO, Futuretown (Cloudlands: VR Minigolf)
+
+“Try to make as many different prototypes as you can. At the beginning, we did ping pong, we did squash, throwing, shooting, bowling…we all did that in a about two days, just to see what [VR] was capable of, these tactile kind of tactile interactions…There’s a lot of discovery. You’re probably going to end up throwing away most of the work that you’re going to work on, but that’s ok. That’s part of learning and part of being in the VR space right now.”
+
+Alex Knoll, lead game designer, Stress Level Zero (Hover Junkers)
+
+“I think a lot of people, once they get the tech and start making games for it, they immediately come to the conclusion that everything you do in real life feels natural in-game. But what we found is that everything you do in-game that you wish you could do superpowers-wise in real-life translates to VR as infinitely more powerful…You want to have a little bit more of a supernatural ability [in VR] than you do in real life, which is an interesting psychological study, I’m sure, just waiting to happen.”
+
+Patrick Hackett, co-founder, Skillman & Hackett (Tilt Brush)
+
+“The resounding message that I always have is, with VR—and this kind of applies to any medium, but especially, especially in VR: spend time in it, and listen to what it does good. Then develop an experience around that. VR is really prone to this problem of people seeing a new market and then making experiences that they’re used to…but room-scale VR especially requires you to take a step back and look at this thing as a blank page.”
+
+VR's past, present, future
+
+The right game can convert even the most jaded VR skeptic to someone who at least can admit there is a future here. VR is a medium, like film or books. Just because a film or a book – or a VR experience –falls short of one’s expectations doesn’t mean that the entire medium be damned. I’ve seen people swear up and down that VR is a fad, a flash in the pan novelty. But then they play, say, Fantastic Contraption, and it melts the hardest heart, if just a little. It turns out that VR isn’t strictly about the headset or the positional trackers; it’s about the experiences the hardware and software can provide, and there are a lot of highly talented game developers realizing this and making games for VR.
+
+There are still people who will continue to be convinced that VR will again be a short-lived, empty hype phenomenon, burning bright and fizzling out much like previous generations of VR, or fanciful tech like Kinect or 3D TV. That could be true, anything’s possible. But the main difference I see today is a large grassroots community of creators who are more connected and enthusiastic about this technology than in the hype of yore. That enthusiasm and willingness to execute is coupled with support from companies with major pull such as Unity, Epic, Valve, Sony, Facebook and others that have a vested financial interest in fostering these communities of creators.
+
+That’s a powerful combination. Often you’ll see new tech possess one or the other: either a big tech company tries to force a new product line down peoples’ throats (hello 3D TV) or an enthusiastic community of creators is small and doesn’t have the support from the companies for which they’d like to make content.
+
+I've not played every single Vive launch game, but there are certainly a few that stand out. Early Access game Space Pirate Trainer by I-Illusions has the visuals and music that make you feel like you're inside an arcade machine, fighting off waves of robots with a gun and shield as you defend your ship. Job Simulator 2050 from Owlchemy Labs has a cartooney aesthetic that belies its complex physics and incredibly intuitive approach to interaction in VR. Tilt Brush by Google-owned Skillman & Hackett is a VR art app that anyone can pick up and create something beautiful. And Fantastic Contraption from Radial Games and Northway Games is so charming and intuitive that it's easy to lose track of time, even when you're wearing a big black mask and have a wire hanging off your head.
+
+It's that intuitiveness that all of the games above share, to varying extents. The best VR developers on Vive and Oculus Touch recognize that they need to take advantage of the expectations for interaction that people (not just "players") bring with them into a virtual space. Once creators understand peoples' expectations, they can start playing with those expectations in fun and interesting ways.
+
+Oculus and PlayStation are impressive in their own right, and are due to catch up, but the Vive comes closest to the promise of VR because it does do room-scale right now and it does it well. There’s less abstraction with Vive just because today you can move around and grab things. It’s the ability to tap into the intuition of players that makes VR so exciting from a game dev perspective. Granted, all VR right now has significant issues with practicality that make it difficult to recommend to the average person, but Vive and its best games give a more generous peek at what’s in store for VR’s future. With a little imagination, you can see why that future is so exciting.

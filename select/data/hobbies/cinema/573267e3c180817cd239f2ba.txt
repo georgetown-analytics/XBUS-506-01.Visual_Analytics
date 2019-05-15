@@ -1,0 +1,49 @@
+Robert Downey Jr. returns as present-day Tony Stark in Disney and Marvel's Captain America: Civil War, but Downey fans can expect to feel a surge of nostalgia when, in one flashback, he appears onscreen looking very much as he did in films from the '80s, like 1987's Less Than Zero.
+
+The teenage Tony Stark was created by artists at Lola VFX using the latest digital tricks. The company has earned a reputation for such work, having also "de-aged" Brad Pitt's title character in The Curious Case of Benjamin Button (a film that won an Oscar for its visual effects). Marvel also employed the facility to create a younger version of Michael Douglas in last summer's Ant-Man.
+
+For the scene in Civil War, the process started during production with Downey performing the scene. "Instead of completely replacing the actor with a digital double, this method allowed us to retain the actor's performance and nuances," Trent Claus, visual effects supervisor at Lola VFX, tells The Hollywood Reporter. "Then we began to adjust the on-set footage of Tony Stark through digital compositing."
+
+That process is akin to using Photoshop on a still image. Says Claus: "It is a similar process to Photoshop that uses some similar tools, but unlike Photoshop which is done on a single image, we have 24 frames per second of footage.
+
+
+
+
+
+
+
+"Every feature of the face and body needed to be addressed in some fashion," he says of the work that went into creating the youthful Tony. "One thing that happens to all of us is that the skin of the face gradually lowers in certain areas, and needs to be 'lifted' back to where it was at the age in question. But other changes are incredibly subtle, such as increase in the way light reflects off the sheen of the skin, a reduction in the appearance of tiny blood vessels under the surface of some parts of the face, or more blood flow in the cheeks giving them that familiar youthful 'glow.' "
+
+De-aging a character by a span of 25-30 years can affect skin texture and complexion and can involve characteristics such as bone structure or posture, Claus explains. "Additionally, when working with the appearance of a well-known actor such as Robert Downey Jr., there is the added pressure of living up to the youthful appearance that audiences remember," he says. "In this case, we analyzed footage of Mr. Downey at the approximate age that we wanted to target, which was around the time of the film Less Than Zero [when Downey was in his early 20s]."
+
+The particular shot was also challenging because of its length and because it involved a close-up. Says Claus: "The shot was nearly 4,000 frames long, with Tony Stark turning from one side to the other multiple times, physically interacting with other actors, and the set itself, and moving closer to the camera for a very long, uninterrupted close-up."
+
+Claus and other VFX pros are increasingly being asked to employ such digital tricks. "Creatives are finding more and more uses for it. It allow actors to play earlier versions of themselves," says Eric Barba, who was at Digital Domain when he served as the Oscar-winning VFX supervisor of Benjamin Button and who currently works at Industrial Light & Magic in Vancouver.
+
+
+
+
+
+
+
+But such digital work isn't being used only to allow an actor to play a character decades young than himself. There's also what's called "beauty" work — in effect, providing actors with digital facelifts — a practice many in Hollywood would prefer to keep secret. "The not-so-obvious examples are probably under confidentiality," says Barba. "There are certain stars that you are not allowed to talk about when that type of work is done — maybe slimming a little bit or cleaning up some imperfections."
+
+"It's much more common than anyone realizes; this is the extension of what's done for magazine covers," says research professor Paul Debevec, who leads the Graphics Lab at the University of Southern California's Institute for Creative Technologies.
+
+As digital technology has become more affordable, "if it's a major actor, you can do that for every frame of a film," adds Debevec, who also co-chairs the Academy of Motion Picture Arts and Sciences' SciTech Council. "Of course one of the worries is that actors are going to have this Dorian Gray problem because the image that we have of them in the films is going to diverge further and further from the way that they look in real life. So they are going to have more trouble on the talk shows and on the red carpet, until those too can be touched up in real time with a yet-to-be invented technology."
+
+It's not just about freshening up a face either. VFX techniques can also be used to create everything up to a full digital double of an actor. Those tend to be created for safety reasons, where a stunt would be either dangerous or simply impossible; or in the delicate situation of the death of an actor. Weta Digital undertook the task of completing Paul Walker's performance in 2015's Furious 7 after his unexpected death.
+
+
+
+
+
+
+
+"That's a whole other level of complexity," Debevec explains. "It's not a matter of digital makeup but actually re-creating a digital version of the person that is three-dimensional, animate-able and relight-able. [In these instances], if you can base it on facial scans, that's the best thing to do."
+
+USC's ICT has developed a light-stage system (a sphere of hundreds of LED lights that's used to create a high-res, 3D scan) that has already been used to scan actors for films from Avatar to Gravity — Downey himself underwent such a scan when it looked as if he would be starring in Gravity. "We first scanned him for Gravity [before George Clooney was recast as Matt Kowalski], and the scan ended up getting used in Iron Man movies instead," says Debevec.
+
+ILM is using a facial-capture system called Medusa, which was developed by Disney Research in Zurich. "We have been putting it to use in production and helping them advance it," says Barba.
+
+Some productions now create 3D scans of lead actors as a matter of course. Explained VFX supervisor Scott Squires in a previous interview with THR: "If there's any inkling that you might need a scan, they scan the actor at the start of production. I've also heard of certain studios having actors scanned just as an archival thing."

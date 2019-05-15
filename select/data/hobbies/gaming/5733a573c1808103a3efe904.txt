@@ -1,0 +1,17 @@
+In just a few hours equity crowdfunding platform Fig will conclude its fourth successful campaign. Consortium: The Tower, a science fiction game being funded in part by BioWare co-founder Greg Zeschuk, will bring in somewhere around $350,000. But only a portion of that money can be collected, because Fig is still working with the United States Securities and Exchange Commission (SEC) on key parts of its business model.
+
+Now, as the company treads water well beyond the period of time they originally expected to have to wait for SEC approval, Fig itself has brought on additional investment from famed developer Cliff Bleszinski.
+
+Fig burst on to the scene earlier this year with a fairly transparent vision for an open equity crowdfunding model. Its first campaign, for a game called Outer Wilds, was only open to rewards-based backers and a small number of high net-worth, accredited investors. Its third campaign, for the much anticipated Psychonauts 2, was the first to live up to Fig's ultimate promise. Everyone, regardless of income or net worth, was able to invest.
+
+And yet more than $1.8 million dollars remains uncollected from that campaign alone, not to mention the others that followed. Consortium is the third successful Fig campaign to be unable to collect on all of its money.
+
+"The SEC filing must be qualified before we can collect the investment reservations placed by unaccredited investors," a Fig representative told Polygon via email in January of this year. "We received comments back from the SEC on Jan. 17, which was 26 days after we made our filing, and the number of comments we received were low. As a result, we currently expect to be able to complete the unaccredited process in the next four-to-eight weeks."
+
+But instead of a decision in March, there was another amended filing made by Fig, extending the review process. We've been able to locate it, dated March 10, on the publicly available Electronic Data Gathering, Analysis, and Retrieval (EDGAR) website. You can read it here.
+
+Another, standard four-to-eight week SEC review timeline therefore suggests that things could be looking up for Fig and its potential investors soon. The SEC may finally be ready to approve Fig's equity investment package, and allow the teams already working on these games to finally receive the balance of their money. Or it could mean another few months for yet another amended solicitation and review.
+
+Reached through his PR company yesterday for comment, Fig CEO and co-founder Justin Bailey would only say that "we're waiting to hear back from the SEC, and hope to provide an update as early as next week."
+
+Meantime, thousands who want to back Psychonauts 2 and Consortium are waiting to hear if they can put money in. They haven't contributed anything yet; they're just holding a receipt for the opportunity to invest. They have the option of tearing up that commitment at any time, and after months waiting for the other bureaucratic shoe to drop, it's fair to question whether they're still interested. Even if the SEC gives clearance to Fig, the developers of Psychonauts 2 and Consortium could come out with with less than they wanted to make their games.

@@ -1,0 +1,41 @@
+Microsoft brought a few crates of prototype HoloLens headsets to its Build developer conference in San Francisco this week, and while the unit I tinkered with had some awkward shortcomings it remains the most promising augmented reality device I’ve ever seen. If you’re interested in AR game design, this seems like your best bet yet.
+
+Of course, that’s not saying much -- my AR experience spans Google Glass, an early CastAR prototype and the Nintendo 3DS, none of which are exactly a font of AR games. 
+
+Microsoft isn’t pitching HoloLens as one either -- the lion’s share of the product’s press demos involve productivity applications, like virtual calendars and Skype windows pinned to real walls or 3D architectural models rendered on office tables. 
+
+But it’s clear that games -- and the developers who make them -- are important to Microsoft’s plans for HoloLens. The company has partnered with Unity to roll out official HoloLens support for the engine, and it was that toolset that I spent an afternoon mucking around with this week.
+
+Building the floating world
+
+Under strict supervision, of course; I can’t overstate how restricted even my extended, developer-oriented walkthrough of the device was. The Unity project we worked with was carefully designed ahead of time; all I did was progressively add assets to a pre-generated "balls floating above a table" scene and slap ready-made scripts on those assets, occasionally passing the build through to Visual Studio and kicking it out directly to the device via USB (though a representative also stated that Wi-Fi and Bluetooth connectivity options will likely be part of the final product.)
+
+It’s yet unclear how you’ll bring your games to the consumer version of the HoloLens, though it seems likely that the process will be much akin to porting your work to the Windows Store -- Microsoft representatives said Windows 10 will ship with "Windows Holographic" APIs that should pave the way for developers to convert their Windows apps and games for augmented reality. 
+
+I’m also not sure when this hardware will see wider release -- Microsoft representatives simply said they expect HoloLens to ship “in the same timeframe as Windows 10” (this summer) and wouldn’t commit to whether that means dev kits or the retail product proper.
+
+
+
+The prototype I worked with was a self-contained battery-powered headset (no wires or breakout boxes) capable of matching HoloLens' advertised feature set: display 3D virtual objects anchored in the real world and accept voice, gesture and gaze input using microphones, front-facing cameras, an accelerometer and gyroscope for tracking, a speaker near each ear that do a damn decent job of producing positional audio, and a discrete processing unit built into the headset.
+
+Three processing units, in fact: a CPU, a GPU and a “holographic processing unit” (“HPU”) that handles some of the work of tracking things in 3D space and displaying them properly on the headset’s lenses.
+
+Let’s focus on those optics for a second, because it was through them that I saw one of the biggest discrepancies between HoloLens hype and reality. Microsoft’s slick HoloLens ads subtly sell the fantasy that strapping one to your face will let you see a room covered in virtual gewgaws, but that’s not really true -- the headsets Microsoft brought to Build have a remarkably limited field of virtual view, such that you’re really only capable of perceiving virtual objects overlaid on the real world in a rectangular area of your vision that’s roughly the size of a 42” television sitting six feet in front of you.
+
+This is a still from the sizzle video Microsoft rolled when it unveiled HoloLens in January. If this guy was surveying his AR kingdom through the prototype HoloLens I tried, he'd only see the cottage directly in front of him and a bit of the pastoral plateau behind it.
+
+In practice, it feels like you’re peering at your virtually augmented world through a porthole. For example, I could look directly at a real-world coffee table a few feet away with a virtual game board anchored to it and see the board just fine. But if I walked forward to examine a virtual sphere floating above the board, the board on the low table would quickly scroll off the bottom of the HoloLens display area -- which falls quite a bit short of the edge of the visor itself. Out of the corner of my eye I could still see the real table just fine, but the virtual game table had disappeared like a figment of my imagination.
+
+In roughly two hours of use I never quite got used to this effect, and was regularly dismayed to see virtual objects abruptly flickering into view or having their edges abruptly cut off as I moved my head. I’m concerned that similar limitations in the final version could hold back what game designers can do achieve with HoloLens.
+
+On the other hand, AR isn’t really the ideal medium for immersive, vision-eclipsing experiences -- that’s what VR is designed for -- so perhaps it’s for the best that HoloLens games effectively disappear when you aren’t focusing directly on them. It makes them more approachable to players who are easily sickened by VR, or who don’t want to wall themselves away from the outside world while they play.
+
+And the unique capabilities of the headset will, I think, be a boon to developers who put the effort in to design games that take advantage of the HoloLens’ unique feature set. 
+
+For example, one of the Unity scripts I worked with effectively created a gaze-controlled virtual cursor by continually checking to see if the headset was looking at a virtual object and, if it was, displaying a red circular cursor mesh on top of that object. I could then effectively “click” on the object by holding my fingers up in front of the visor and making a clicking gesture. I could also design custom voice commands by passing the command as a string of plain text (“honk honk”) to the HoloLens toolkit’s AddKeyword method, then say those commands and trigger in-game interactions.
+
+The prototype’s microphones are remarkably sensitive and forgiving, to boot -- I was able to whisper “honk honk” while standing in a loud, crowded classroom and trigger the headset every time, even when I elongated the syllables enough to sound like a chain-smoking goose flying in slow motion.
+
+But the hardware still has a ways to go if it wants to be more than a cool gimmick. Before VR/AR researcher Michael Abrash left Valve to join Oculus, he published a lengthy blog post outlining some of the inherent challenges of crafting "hard AR" experiences where virtual objects are indistinguishable from real ones. The HoloLens prototype can't do that -- game objects jitter in place when you move around them, and they don't always line up with real-world objects exactly right. 
+
+What it does do is make a compelling case for AR as a viable platform for games, one that may be especially appealing to experimentative developers who are having a hard time getting their work discovered in other, more crowded markets.

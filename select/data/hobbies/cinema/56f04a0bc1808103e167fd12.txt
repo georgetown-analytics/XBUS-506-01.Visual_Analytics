@@ -1,0 +1,37 @@
+
+            Emboldened public figures, using sharper tactics, may be able to get their cutting-edge privacy disputes to juries not willing to give the American media any breaks.
+        
+
+A mysterious package arrives at the newsroom. When opened, it's clear this is sensational stuff. The material gets published. Readers flock. And yet, what's put online is called a massive invasion of privacy. A legal missive demands an end to publishing secrets. But it's deemed newsworthy. And the First Amendment protects that, right?
+
+No, not the Hulk Hogan sex tape. We're talking about documents purloined from the Sony hack in November 2014. No, not Gawker. Well, Gawker published hacked information too, but in this instance we're referring to The Wall Street Journal, Bloomberg, The Hollywood Reporter — pretty much every news outlet in the country.
+
+A Florida jury's $115 million verdict against Gawker on Friday — with punitive damages still to be assessed — compels an examination into what sort of precedent this sets. For decades, thanks to favorable legal decisions such as New York Times v. Sullivan (concerning libel of public figures), New York Times v. United States (the right to publish classified information) and Bartnicki v. Vopper (the right to broadcast illegally recorded communications), media outlets have operated with an air of confidence on materials determined to be in the public interest. Should the press now be concerned about what went down in a Florida courtroom at Hulk Hogan's trial?
+
+Many First Amendment scholars will point out that this was merely a trial verdict, one that might not survive Gawker's promised appellate review. The Hogan case is also, in the words of George Freeman, the executive director of the Media Law Resource Center, one that addresses "an unusual and extremely private matter." That is, a sex tape.
+
+Then again, as seen by the Sony hack, news organizations confront all types of objections on privacy grounds. In the digital age, with drones in the sky and biometric-collecting devices on the ground, the issue of ensuring privacy for citizens will surely cause lawmakers and courts to grapple with the boundaries of free speech. During the Hogan trial, a Gawker editor was asked about attitudes on "revenge porn." But the tough issues surely go beyond nudity and sex. For example, just a month ago, NFL superstar Jason Pierre-Paul filed an invasion-of-privacy lawsuit in a Florida court against ESPN and its reporter Adam Schefter after a photo of his medical records was tweeted out to 4 million followers. 
+
+Will news of Hogan's victory embolden potential plaintiffs?
+
+"When you see a number like $115 million, sure, it can't help but be an optimistic sign for plaintiffs," Freeman tells THR. "Will it lead to similar cases? The answer is probably yes."
+
+When celebrities and others do sue, the Hogan case may provide another signal of what's to come. While the verdict itself is of limited legal precedent, the nearly-forgotten story of how — and where — it got to trial in the first place provides some. 
+
+When Hogan first sued, he did so in federal court by attaching a copyright claim. Thanks to Hogan's settlement agreement with Bubba the Love Sponge, the plaintiff was conferred rights to the sex tape in question. The federal judge, when asked to rule on a temporary restraining order against Gawker, signaled Hogan's uphill battle with word that the publishing of the video excerpt was "in conjunction with the news reporting function" and that the "factual finding supports a colorable fair use defense."
+
+Hogan then switched tactics, making the case more about privacy than property. He re-filed in state court without the federal copyright claim. Gawker then had the case removed back to federal court. But the judge there noted the presence as a co-defendant of Heather Cole (formerly Clem) — Hogan's sex partner in the tape —  and decided that diversity jurisdiction (and thus a federal court) didn't apply. And so the case was remanded back to a state court.
+
+Why this became important is that it allowed Hogan to fight with a home-field advantage, before a judge, the Pinellas Circuit's Pamela Campbell, who was appointed to the bench in 2006 by Governor Jeb Bush after proving her conservative bona fides by representing the parents of Terri Schiavo in a end-of-life case that received national attention. It's also possibly significant that circuit judges in Florida go through elections. In the middle of the Hogan litigation, she was re-elected to a six-year term in 2014. Studies show that elections can shape decisions made from the bench. Campbell has obviously received a great deal of publicity from this Hogan case.
+
+Before trial, Judge Campbell was asked to make all sorts of rulings — including determining what evidence was irrelevant and potentially prejudicial. She also had to tackle Gawker's summary judgment motions to decide whether Hogan's claims should even be tried before a jury. It's easy to fault her for a series of decisions strongly in favor of Hogan, but then again, there's never been a celebrity sex tape trial before. Also, First Amendment boundaries aren't particularly clear-cut on statutes like right of publicity, one of the claims that Hogan was pursuing.
+
+Once the case got to trial, and Gawker met a state court jury, Hogan was able to exploit the overwhelming unpopularity of the news media to his advantage. "Do you think the media can do whatever they want?" asked Hogan's attorney Ken Turkel in closing arguments.
+
+It's true that the public has long been skeptical about the trustworthiness and fairness of the media. Public surveys show that the unfavorable rating continues to sink. According to Gallup, just 40 percent of Americans have a "great deal" or a "fair amount" of confidence in the media. That's down from 55 percent at the turn of the century. The rise of web-based media and no-holds-barred sites like Gawker certainly hasn't helped that perception. The opinion of the media has ebbed so low that Donald Trump has made the need to reshape libel laws an agenda item in his bid for presidency. Just days before the verdict, Republican citizens of Florida overwhelmingly voted to support him.
+
+What this all adds up to is the prospect of more privacy lawsuits against media defendants in state court before judges who might not be so friendly and before juries who might not be so protective of the rights of reporters and editors to make their newsworthy calls. Even if Trump never becomes president, lawmakers will also be deciding whether to enact legislation to stop frivolous lawsuits targeting speech and save defendants from enduring expensive, harassing litigation.
+
+Of course, many lawyers and scholars such as UC Irvine law school dean Erwin Chemerinsky, believe the only bright line established in the Hogan case pertains to sex tapes, and that Gawker has a good shot on appeal. The potential psychological fallout from the verdict in newsrooms faced with tough decisions about whether to publish privacy-invasive material presents a different analysis.
+
+"Will there be a chilling effect on journalists?" asks Chemerinksy. "I hope not. I guess editors will have to address that."

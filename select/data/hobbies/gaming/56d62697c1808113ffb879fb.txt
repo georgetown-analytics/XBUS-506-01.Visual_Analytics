@@ -1,0 +1,41 @@
+It's hard to tell from this flat trade show demo image, but trust me, the 3D effect is impressive even without glasses.
+
+Ultra-D
+
+Further ReadingAs the "wow factor" wanes, do gamers care about 3D anymore?Quite frankly, 3D glasses have never failed to be anything but a headache inducing, slightly blurry mess for me. That might be why a recent demo of a new glasses-free 3D TV from Ultra-D blew me away. It just works.
+
+Further Reading
+
+As the "wow factor" wanes, do gamers care about 3D anymore?
+
+Six years or so after the industry declared that stereoscopic 3D displays were going to be the future of entertainment, 3D TVs are decidedly not the present of entertainment. A combination of relatively wonky glasses technology, high costs, and a general lack of interesting content have turned what was once a hot ticket into an overwhelming market flop, save for a few holdout TV set makers and aging devices like Nintendo's 3DS line.
+
+At least one company thinks it finally has the right combination of technology and timing to give traditional 2D displays some added depth, though. After years of quiet development, StreamTV Networks has started manufacturing displays with its Ultra-D technology—displays that don't require glasses, focal "sweet spots," or much in the way of specially made 3D content. After seeing the technology on display at DICE recently, I found myself less-than-skeptical about stereoscopic TVs for quite possibly the first time ever.
+
+If you happen to glance at an Ultra-D TV without being prompted, it can take your brain a second or two to figure out what exactly is different about the image you're seeing. The 3D effect is a bit subtle, with less apparent depth than most other stereoscopic systems (or the very convincing depth effect on a virtual reality headset). Still, there's a distinct layering to the image that draws your attention immediately, and it helps focus that attention to the foreground action and away from the blurry background.
+
+The 3D image on the Ultra-D screen is much crisper than most other stereoscopic systems I've seen, without any of the frame rate, resolution, or brightness compromises that are common to other 3D solutions. Ultra-D uses a proprietary glass-cutting and gluing process to create a series of "overlapping microviews." That means the 3D effect is solid anywhere within a 140 degree viewing area, without the need for special glasses or dithering parallax barriers to separate out different images for each eye.
+
+"We bend the light through the glass, so there's no right or left alternating image," StreamTV Networks Software Engineer Dusten Sobotta told Ars. "You don't need two cameras or any of that... all of the traditional stereoscopic thought process doesn't apply here."
+
+"Mechanically, the glass doesn't change, but there's an algorithm being run on the input image that scatters it, rearranging the pixels knowing what the glass arrangement does to those pixels," he continued. "Given an input image and depth [data], the lens scatters the light, almost into a field, such that your eyes looking at a single point in space will see two different things."
+
+Up-dimensioning 2D content
+
+In the past, 3D technology has always had the chicken-and-egg problem of generating enough specially made 3D content for the displays to appeal to a critical mass. The Ultra-D system gets around that limitation somewhat by using an embedded Qualcomm chip and an algorithm the company says can add apparent depth to any 2D content. Sobotta told us the chip samples 2D images in near real-time over a few frames, using a combination of parallax and edge-detection algorithms (and some secret "special sauce") to figure out the appropriate depth for each pixel on the 4K display. The effect is certainly convincing if the upconverted 2D-to-3D movie trailers being shown in the DICE demo room are any indication.
+
+ An exploded view of the tech inside an Ultra-D display.
+
+For gaming, this multi-frame sampling process would create an unacceptably noticeable lag of about 30 milliseconds, according to the Ultra-D representatives. But developers can get past that issue using an SDK that makes it easy to pass in-game depth data in a form the TV can immediately interpret, with no lag. Nvyve Studios Director Adam Simonar, who was on hand to show off "utopian survival horror" game Pamela with Ultra-D integration, said the SDK took just a few hours to fully integrate with the Unity graphics pipeline and a week to fine tune.
+
+"The general vibe everyone gets when they hear 'SDK' now, since the Oculus has been so huge, is that it will take six months to a year of development time, some crazy undertaking," StreamTV Networks' Games Director Zach Lehman told Ars. "Everyone is under the belief that it's a massive undertaking. They simply don't believe us. It makes a big difference when developers [like Simonar] can tell people."
+
+Aside from programming time, developers might also be worried that adding stereoscopic support will come with a significant performance hit. In the past, stereoscopic games often had to lower resolutions or remove graphical details in order to render a distinct view for each eye or to avoid hitting bandwidth caps on the GPU or even the HDMI cable itself. But Sobotta says the Ultra-D SDK doesn't require any noticeable performance compromises—just send a bit of depth data along with the full-resolution 2D image, and the display handles the rest instantly.
+
+Despite these improvements to the underlying technology, convincing game developers to take another swing at stereoscopic 3D all these years later can still be an uphill battle. Lehman says his company has been making steady progress convincing the development community to take the plunge, though; he said Wargaming, Ubisoft, and EA had all shown interest, but he didn't provide much in the way of details.
+
+"The worst part is that the only thing left is the bitter taste in the mouths of all the people that have tried [stereoscopic game development] before," Lehman said. "Developers say, 'We tried 3D a long time ago and it sucked and we hated it and we don't even want to talk to you.' That one's pretty easy to pass because we can just buy their eyes... as soon as they see it, that hurdle is overcome 100% of the time."
+
+After years in quiet development, StreamTV Networks says it's partnering with major TV brands to bring its technology to market this year, though the first sets will probably come from the Chinese manufacturers that bid the most for the still-limited production capacity ("China loves 3D," Lehman said). The total manufacturing cost for the process is only about 10 percent higher than that for a normal 4K display the same size, according to Lehman, which should limit the retail premium for the technology.
+
+After rolling out 65-inch and 50-inch displays this year, Lehman said the same basic process could be adapted for smaller computer monitors or even cell phone screens down the line. Frankly, that can't come soon enough. I've never been that excited about other stereoscopic screens, but ever since my brief demo with Ultra-D technology, every time I look at a normal 2D display, it looks depressingly... flat.

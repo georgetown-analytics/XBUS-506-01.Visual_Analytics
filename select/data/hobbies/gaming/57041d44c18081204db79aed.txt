@@ -1,0 +1,9 @@
+
+
+What trickery is this? You can now play the original Legend of Zelda in your browser in 3D thanks to the magic of Javascript. For Zelda's 30th anniversary, Scott Lininger and Mike Magee have rendered the first three dungeons of the NES classic in voxels. You can have a go here, at least until Nintendo's legal team unleashes an age of darkness.
+
+
+
+The remaining dungeons and the accompanying overworld are to follow, in addition to major bugfixes. Boomerangs, for example, are completely broken, while that chippy warning bleep you get when on your last half-heart of health never turns off. As the devs put it, "This is not the greatest game in the world, no; This is just a tribute."
+
+They're not the first team to experiment with voxels in your browser—there's a functional NES emulator that extrapolates 3D models from sprites in any ROM you care to feed it.

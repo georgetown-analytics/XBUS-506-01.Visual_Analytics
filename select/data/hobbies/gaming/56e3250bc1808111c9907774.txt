@@ -1,0 +1,23 @@
+A new update released today for action-adventure game Rise of the Tomb Raider introduces support for the DirectX 12 graphics API with the overall aim of improving the graphical experience. This update is out now for for PC on Windows 10 through Steam and should arrive via the Windows 10 Store soon.
+
+ 
+
+In a blog post, Rise of the Tomb Raider PC developer Nixxes Software said the introduction of DirectX 12 represents a "massive step forward" as it relates to unlocking as much CPU power as possible.
+
+"For Rise of the Tomb Raider the largest gain DirectX 12 will give us is the ability to spread our CPU rendering work over all CPU cores, without introducing additional overhead," the developer said. "This is especially important on 8-core CPUs like Intel i7s or many AMD FX processors."
+
+Nixxes studio head Jurjen Katsman further explained how DirectX 12 will help improve overall performance.
+
+"When using DirectX 11, in situations where the game is under heavy load--for example in the larger hubs of the game--the individual cores may not be able to feed a fast GPU like an Nvidia GTX 980 or even Nvidia GTX 970 quick enough," he said. "This means the game may not hit the desired frame rate, requiring you to turn down settings that impact CPU performance. Even though the game can use all your CPU cores, the majority of the DirectX 11 related work is all happening on a single core. With DirectX 12 a lot of the work is spread over many cores, and the framerate of the game will run at can be much higher for the same settings."
+
+The slide below provides an overview of how the CPU load is distributed with DirectX 11 and 12. You can also take a look at the images above to compare Rise of the Tomb Raider using DirectX 11 and 12. As you'll see, with DirectX 12, the game is able to reach 60fps on high settings, while DirectX 11 only hits 46fps.
+
+ 
+
+Another way in which Rise of the Tomb Raider benefits from DirectX 12 is through asynchronous compute, which will be available for both the PC and Xbox One versions of the game through a future patch.
+
+"This allows us to re-use GPU power that would otherwise go to waste, and do multiple tasks in parallel," Katsman said. "And there is a never-before-seen level of control over Nvidia SLI and AMD CrossFireX configurations, which means that as a developer we can take full control over those systems and ensure users get a great experience with them."
+
+Finally, Katsman said Nixxes is planning "many more optimizations" for the future, though no specifics were provided. Additionally, the DirectX 12 PC patch is entirely optional. DirectX 11 will continue to deliver the "most predictable and proven experience."
+
+ 

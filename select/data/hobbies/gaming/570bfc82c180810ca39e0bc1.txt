@@ -1,0 +1,9 @@
+Luke Pope, developer of award-winning indie game Papers, Please, has launched a new demo for his next game, Return of the Obra Dinn. It's the first new build of the game he's released since October 2014 — but don't expect it to look radically different, he said.
+
+"A lot of time was spent on small obvious stuff and I spun my wheels here and there just waiting for random inspiration at times," Pope wrote of the lengthy period between demos in his development log. Difficulties with "scaling up" the tools used for the previous gameplay demo to accommodate them for the full game also led to setbacks, he explained.
+
+However, there are some key changes present in the free Mac and Windows PC download, which he debuted at Game Developers Conference last month. These include Return of the Obra Dinn's new intro sequence, which has voiced dialogue; more flashbacks; and a menu to change settings while paused.
+
+Return of the Obra Dinn's most striking feature, its unique, low-resolution black-and-white art, remains intact. Set in 19th century Europe, the emotional adventure takes place aboard an East India Company ship. The demo, according to its download page, has been "barely tested," and is not fully representative of the game's full version. That release remains undated.
+
+We checked out the first build of the Papers, Please follow-up back when it launched 18 months ago. Check that out above, and read our interview with Pope to find out more about his latest project.

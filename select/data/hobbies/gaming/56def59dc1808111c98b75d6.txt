@@ -1,0 +1,15 @@
+
+
+Weekender-goers, feel smug at your early hands-on! Everyone else, adopt a glum look at the news that Total War: Warhammer has been delayed from April 28 to May 24. Creative director Mike Simpson issued as statement as to the reason behind the delay, and frustrating though it is, I can't think up a better one.
+
+"This could be the best Total War game weâve ever made. We donât want to rush it."
+
+Fair enough.
+
+Meanwhile, the system requirements have been nailed down, giving you an extra month if you need to plug your computer full of new bits. Pleasingly, Creative Assembly has continued the trend among PC developers of offering extra sets of detailed specs so you can check whether your rig is able to go above and beyond. Note that this is the first Total War game to require a 64 bit OS.
+
+PC Minimum Specifications:[ Expected around 15-25 FPS on campaign map and in a 1v1, 20 units vs 20 units battle, default graphics preset set to âLowâ]Operating System: Windows 7 64Bit Processor: IntelÂ® Core™ 2 Duo 3.0GhzRAM: 3GB*Hard Drive: 35 GBVideo Card: (DirectX 11) AMD Radeon HD 5770 1024MB | NVIDIA GTS 450 1024MB | Intel HD4000 @720P*PC integrated graphics chipsets require 4GB ram, e.g. Intel HD series
+
+PC Recommended Specifications:[Expected around 45-55 FPS on campaign map and in a 1v1, 20 units vs 20 units battle, default graphics preset set to âHighâ]Operating System: Windows 7/8.1/10 64BitProcessor: IntelÂ® Core™ i5-4570 3.20GHzRAM: 8 GB Hard Drive: 35 GBVideo Card: (DirectX 11) AMD Radeon R9 270X 2048MB | NVIDIA GeForce GTX 760 2048MB @1080P
+
+PC 60fps+ Specifications:[Expected 60 FPS+ on campaign map and in a 1v1, 20 units vs 20 units battle, default graphics preset set to âUltraâ]Operating System: Windows 7/8.1/10 64BitProcessor: IntelÂ® Core™ i7-4790K 4.0 GHzRAM: 8 GB Hard Drive: 35 GBVideo Card: (DirectX 11) AMD Fury X or Nvidia GTX 980 @1080P

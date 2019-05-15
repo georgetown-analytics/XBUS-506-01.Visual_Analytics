@@ -1,0 +1,37 @@
+
+
+
+
+It’s not often that I get invited down to Industrial Light & Magic in San Francisco, CA, but when the invite is thrown my way it’s usually to see something cool. Earlier this month I traveled up north to see how filmmaker Duncan Jones used ILM to create the orcs in his big screen adaptation Warcraft, based on the popular Blizzard video game series.
+
+I’ll be completely honest with you: the marketing for this movie had done little to convince me that it was a film I wanted to see. I’m not a video gamer and have never played World of Warcraft, and to be completely honest, I’m not a big fantasy (orcs, wizards, dungeons and dragons) type of guy. But I’m a big fan of Duncan Jones and that alone had me continuously searching for reasons.
+
+So I hopped on a plane and visited the visual effects house that George Lucas built, hoping I would be wowed. The filmmakers behind the movie pulled the curtain back to show us how the magic was created, and that in itself was not only very interesting but very impressive. So hit the jump and learn why ILM considers the Warcraft facial capture advancements to be groundbreaking.
+
+ 
+
+The Huge Challenge of Creating Realistic-Looking Orcs
+
+Duncan Jones knew that when he came on to Warcraft that the biggest challenge would be creating the orcs themselves. He explained to me that they needed to have characters that not only could win the audience’s empathy, but could “hold a close-up.”
+
+A lot of the design choices in the video game were made over twenty years ago. ILM realized they needed to adapt the more cartoony look of the designs to fit the mandate of presenting what those characters and species would look like if they were real. Wei Wang, a Blizzard concept artist, gave them an initial sketch which became the blueprint on how the orcs should look. And you could easily mistake this initial sketch as art inspired by the movie — it looks that close to what we see in the film.
+
+In the world of Warcraft, orcs have the same size heads as humans but are much wider and stand 6 and a half to 7 feet tall. The artists decided that practical make-up wouldn’t work for what they needed, so they instead decided to go all in on a performance and facial capture approach.
+
+By creating the orcs using performance capture, they didn’t have to worry about how big, tall, or muscular the actors were, instead focusing purely on performance. The orcs’ movements were developed by Terry Notary, who of course also worked on the Lord of the Rings films and the Apes films. Terry Notary played a lot of the “background” characters in the film, as well as some of the hero characters, notably Grommash Hellscream.
+
+ 
+
+ILM’s “Groundbreaking” Facial Capture Work on Warcraft
+
+ILM had been working on their facial capture technology for a while now and felt they were finally making impressive headway with the work they did on the Hulk in The Avengers. ILM completed some tests to help convince Jones that the technology was at the stage it needed to be to accomplish his vision for Warcraft, but it wasn’t until he got back the first completed shot that he was convinced that his bet would pay off. That first shot is one of the most impressive shots in the entire movie, and you’ll see it very early in the film. It’s not a big impressive battle, but a very emotional scene between an orc and his pregnant wife in their hut.
+
+The emotion that comes from the faces of these computer generated creatures is astounding and it’s no surprise that ILM considers their facial capture work on this film to be “groundbreaking.” We’re seen some impressive facial capture work from WETA, especially on the recent Apes films, and while Andy Serkis has been fighting the battle of what he calls “digital make-up,” performances still require animators to rework and manipulate the data captured on set. But this film supposedly features a closer to one-to-one ratio of performance to rendering.
+
+We were shown a very impressive video showing a side-by-side comparison of the human motion capture performances and the final renders, and I know we’ve seen this sort of thing before on Avatar and the Apes films, but this was even more impressive — it’s amazing how much of the facial movements of the human actors made it to the CG versions of the orcs. You can see a short snippet of some of the footage I screened in this new featurette:
+
+VIDEO
+
+The facial motion capture was not approached as something expendable or something to be used as merely reference, but as performances that needed to be captured for the final product. ILM is particularly proud that very little modification was taken to create the completed facial performances in the film. The facial capture was accomplished with two cameras on the face of each hero orc actor, with over 200 motion dots on the face which needed to be tracked. People, assisted with some software tools, have to individually guide the tracking of every dot. They also did a rigid track on the eyeballs and teeth, allowing them to separate out the jaw motion from the skin/head.
+
+Once they had all this data, the ILM animators would reproduce the performance on a 3D scan of the actor to make sure it looked right before they even began to transfer the performances to the model of their orc counterpart.

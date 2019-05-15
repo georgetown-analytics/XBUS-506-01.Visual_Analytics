@@ -1,0 +1,6 @@
+SQL Server 2014 Development Essentials ($16.54 Kindle), by Basit A. Masood-Al-Farooq, is free this morning, direct from Packt Publishing.
+
+
+Whether you are thinking about becoming a database developer, architect, or administrator, or you are a seasoned database expert, this book will provide you with all the skills you need to successfully create, design, and deploy databases using SQL Server 2014. You will also learn how to add, modify, and delete data stored within a database. You will use Transact-SQL statements to create and manage advanced database objects that include scalar and table-valued functions, views, stored procedures, and triggers. Finally, you will learn about how SQL Server works, how indexes and statistics improve query performance, and the new SQL Server 2014 in-memory technologies.
+
+Get the free book from Packt Publishing. Click on Claim, log in and the book gets added to your bookshelf; you can download a DRM-Free EPUB, Mobi (Kindle) or PDF. You can also access any code files and send the the book to your Kindle Library from the My Ebooks page.

@@ -1,0 +1,11 @@
+
+
+It's testament to the calibre of Blizzard's back catalogue that a 16-year-old game is considered worth patching. The last time Diablo 2 got a touch-up was in 2011: patch 1.13d polished Battle.net integration and swept away a few bugs. Though the changelog is short, yesterday's patch 1.14 is more significant.
+
+"This update focuses on system glitches introduced by modern operating systems," the official post reads. "In related news, you can finally retire those old Mac PowerPCs. Included with the update is a shiny new installer for OSX.
+
+"Weâve also begun working to improve our cheat-detection and hack-prevention capabilities. Thereâs still work to be done, but weâre making improvements every day. 
+
+"There is still a large Diablo II community around the world, and we thank you for continuing to play and slay with us. This journey starts by making Diablo II run on modern platforms, but it does not end there."
+
+Compatibility with modern systems is nice enough, but it marks the beginning of a wider process we've suspected for some time. In November last year, Blizzard was hiring for a "Senior Software Engineer, Classic Games". We speculated then that Blizz could be ramping up to remaster greats like Diablo 2, Warcraft 3 and Starcraft, but at the very least patch 1.14 is evidence of a commitment to modernising Blizzard's slice of gaming history.

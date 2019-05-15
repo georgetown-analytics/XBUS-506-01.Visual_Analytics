@@ -1,0 +1,35 @@
+At GDC I got an opportunity to try out Unreal Engine's editor in VR -- actually editing live game content on the fly using an Oculus Rift with the Touch controllers.
+
+The company debuted that tech during its press conference -- which you can see in the above video, beginning at 15:05. My initial reaction to this -- and to Unity's demo of something similar, which you can watch here -- was that it might simply be an attempt to "wow" the audiences of the companies' respective press conferences, and ride the very obvious "tidal wave" of VR enthusiasm that's sweeping through GDC this year.
+
+I don't think that's the case after using Unreal Engine this way, and talking to Epic executives Tim Sweeney and Kim Libreri -- as well as Nick Darnell, an Epic tools programmer who gave me my demo at the Epic Games booth -- leads me to believe the company is in earnest about the potential and limitations of this new way of working.
+
+There are two reasons for this. One is simple: In real life, it worked way better than I anticipated. I'll admit I'm not a game developer, and I have limited skill when it comes to using game engines, though I have dabbled here and there. That said, I didn't find it difficult to work with Unreal Engine in Oculus, and could easily place objects, change their properties, inspect them, modify them, and move them around. These were fairly basic actions, but they all worked well after a brief adjustment.
+
+Discussing the tech with the company's CTO Kim Libreri made me realize, too, that the tech was inspired by a real need:
+
+"When you're building a 3D experience in VR, the understanding of the space is really important. Nick Donaldson, who's the lead designer on Bullet Train, his life was this: In the goggles, 'Does that work? Does that look good? Does it feel good?' Off, on, off, on, off. Making slight adjustments, just moving things -- making sure that the space felt right for the experience.
+
+"A lot of the reason we did it was not just for a flashy, 'Hey, look at this cool demo.' It really is to make Nick's life easier. He literally is going backward and forwards between his monitor and the VR headset. And now he can actually really design the space."
+
+Given all that I've heard about the vast differences between designing games for VR and for screens, this makes a lot of sense to me; here are two examples from just this week's GDC talks -- from VR vet Jesse Schell and a host of devs with roomscale VR experience.
+
+When you need to make sure your game works from a very different perspective than on a screen, it makes basic sense to edit it in the HMD, so there's no guesswork.
+
+And CEO Tim Sweeney was up-front about the limitations of the tool when I spoke to him:
+
+"Anything that involves working in the 3D space it's totally usable. You can go in and use it right now. When you get down to using other parts of the user interface, like the materials editor, you run into limitations. The resolution of the headset is low enough that you don't nearly the text density that you get on a monitor that's sitting in front of you on a desk," he said.
+
+
+
+And that's certainly true. But one cool thing is that you can actually move the menus very close to your face, as though they're pieces of paper, in virtual space if you're having trouble reading something, and it's surprisingly helpful.
+
+"Right now, if you're going to do prolonged work outside of 3D, you'll want to take the headset off and do that. But I think we're just one or two generations from that changing completely," Sweeney told me. "At some point, maybe five years from now, that experience becomes purely superior to the desktop, monitor, keyboard, and mouse experience, because the resolution of the VR headset and the ability to track in 3D is so much higher."
+
+After using the earliest version of the technology, I find it hard to disagree; the ability to quickly edit in VR -- and to pin tools panes to the sky while doing so, and grab them when you need them -- is obviously attractive, even if the current limitations are obvious.
+
+During my demo, Darnell pointed out that, right now, many developers tend to build in the traditional editor and then do extensive walkthroughs of the content in VR. I have a feeling that makes the most sense, as in the end, they're used to using a PC and it offers more flexibility in some ways -- more freedom for multitasking and better resolution. But if Sweeney's predictions are right on, the balance of the workflow will gradually shift toward direct VR editing.
+
+The upshot: I came away from the demo and these conversations convinced that this is, indeed, an earnest attempt to make something usable rather than something meant to just wow a GDC audience on-stage.
+
+The good news is that you can try it immediately if you have an Oculus Rift development kit with Touch controllers; the source for the VR editor is already on Epic's GitHub repository. A fully binary preview is slated for release in June.

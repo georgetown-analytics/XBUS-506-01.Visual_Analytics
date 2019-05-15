@@ -1,0 +1,75 @@
+
+
+Just as the first game did a few years ago, Marvel: Avengers Alliance 2 [Free] has grabbed a lot of my attention since its release not long ago. It's a little buggy in places, but the turn-based battle system is very satisfying and strategic, and the team-building offers a lot of options to support a variety of play styles. Plus, it has Spider-Man in it. So, since I'm playing the game an awful lot anyway, I thought I'd put together a bit of advice for anyone else who might be interested in the game. Note that I'm going to try to keep away from recommending specific characters, since an overpowered character is often one update away from being toned down.
+
+Getting Started
+
+The game will walk you through most of its systems, and no matter what, you'll get Hawkeye as a team member. You might think he's a useless character just because he's free, but he's actually quite powerful in the right party build, so don't feel guilty about beefing him up. As useful as Hawkeye is for dealing damage, however, he's no tank. The game will give you a free hero draw, and who you get from that will determine your course. If you get a tank, you're all set. Otherwise, you're going to need to rely on friend assists until you can pull one. The gold flows relatively quickly early on, so you should be able to get a tanking character before too long.
+
+
+
+Early on, you'll want to focus on clearing out at least the first set of campaign missions on normal difficulty. This will help you fill out your team and power sets, and will put you well on your way towards getting your Commander Rank high enough to unlock the game's other features. How much you want to dally in PVP and the Spec Ops missions is up to you, but no matter what, you'll want to get access to the Scouting missions as soon as you can. There are items that can only be collected in Scouting missions that you'll need to advance your characters past level 9.
+
+The game will give you a limited time offer for a starter set that includes Spider-Man and some other goodies. If you really love Spider-Man and don't care about spending some money, you can go for it. Realistically, Spider-Man's not *that* great, and you'll likely pull him sooner or later anyway, so my recommendation is to pass on it.
+
+Building Your Team
+
+Like a lot of other free-to-play RPGs, there are tons of characters to collect, but you certainly don't need all or even most of them. Having more characters is a benefit in as much as it allows you to make minute adjustments according to the current situation. It's far more important to build one solid team of five members before anything else, however. Here are some general tips for making that happen.
+
+
+
+Choose a tank. You won't get far in Avengers Alliance 2 without a tank of some sort in your active party. Some people like to keep a spare tank on the bench, but if you've set things up right, it shouldn't be necessary. The best tanks are heroes of the Bruiser (blue) and Tactician (green) type, but certain characters in those groups fare better than others. Make sure your prospective tank has a move that can generate the Protect status, and load them up with Iso-8 that either buff up their defense (if a Bruiser type) or evasion (if a Tactician type). If you don't have a suitable character, you'll have to depend on the kindness of strangers to provide.
+
+Make sure you have someone who can hit Stealth-status characters. As long as a character has an attack that deals damage to all targets, you'll be able to damage a Stealth-mode opponent. You can also accomplish this by equipping sets of Iso-8 on a character, but we'll go more into that later on. If you don't have a character capable of this, you might end up in a dire pinch.
+
+Don't underestimate buffs and debuffs. It's tempting to just let fly with your strongest attackers, and in some situations, that's the right way to go. But long battles go smoother if you have some choice buffs or debuffs among your moves. Ideally, it's great if your tank has these moves, but you certainly shouldn't be shy about equipping them on other characters, too. They're more powerful than most people seem to realize.
+
+Think carefully about how your team is going to work together. For example, you generally don't need two characters who can generate the Protect status, so if you want to include a character beyond your tank who has a move like that, make sure to replace it with something else before jumping into battle. Watch for opportunities to generate extra attacks, such as combining Hawkeye's Overwatch skill with a tank using a Protect move. Think about what each character's role in the party is going to be and equip them appropriately.
+
+
+
+Equip the right Iso-8. At first, you're not going to have much of a selection to work with, but believe me, you'll be swimming in the stuff before too long. Iso-8 boosts stats and if you equip enough of the same type, will confer some sort of special passive ability to the character. You'll want to consider both of these things. An evade tank can certainly use more evasion, and a regeneration status can help heal any hits that do land. An attacker obviously benefits from higher speed and attack power, but you'll also want to keep your eyes open for useful perks like being able to target Stealthed or Protected opponents. That said, while passive skills are useful, big stat gains in vital areas are more important.
+
+Don't be lazy about building up your benchwarmers, either. Although you can only bring two or three characters into active battle with you at any one time, you can have two or three others (depending on the mode) sitting on the sidelines, ready when you need them. At first, you probably won't need them too often, but as you take on higher difficulty missions, every member counts. Don't neglect them just because they're not part of your active party.
+
+Powering Up Your Team
+
+You've got your party, now you just need to get them in fighting shape. The best way to do that is to gain levels by fighting battles, because levels are significant in this game. That said, there are a lot of things you can do to make the process easier. Here are some tips.
+
+
+
+Find a team and stick with it. As tempting as it is to play with new toys as soon as you get them, unless you see them doing a job better than someone already on your team, it's best to leave them aside until you get one solid group up to the max level of 30. With one decent maxed-out team, you will be more easily able to gather what you need for the next team you want to raise. It can't hurt to have spares, of course, but five characters at level 30 beats ten characters at level 15 no matter how you measure it.
+
+Get started on Hero Trials as soon as possible. That means level 10 for all one-star characters and abilities. Most of the required trials are things you're going to be doing anyway, so if you open them up and start them as early as possible, you'll likely finish most of them on the way. Granted, opening them requires the correct resources, but if you have them, use them. The benefits of raising a star level are huge.
+
+Use up your unstable Iso as soon as you get it. There's no downside to doing this. Typically pour them into whoever is your strongest character of the matching type, and use rainbow ones to level up whoever on your main team is lagging behind the rest. There are good reasons to keep your group around the same levels if you can swing it.
+
+
+
+Generally speaking, you shouldn't buy specific abilities. You have the option to use your ability points (the purple ones) to buy any abilities you haven't managed to pull randomly yet. This is not a great idea, in my opinion. Those points are better served for opening up trials. After you've got everyone's trials unlocked, then you can pick up any missing moves, but you'll likely have already gotten them from your many random power pulls anyway. Feel free to break this rule if you see an ability that would bring your whole team together, I suppose.
+
+Start running Scouting missions as soon as you can. The energy consumed for these missions recovers at an absolutely glacial rate, and might just be one of the few timers where it's not a bad idea to throw some gold at refilling it here and there. You absolutely need the resources dropped from these missions to advance your characters and therefore to advance through the game. That means if your energy points are sitting there full, you're wasting valuable time. Clearing out Scouting missions should be high on your list of priorities each time you play.
+
+General Tips
+
+The best way to learn the game is to just keep on playing, but I've thought of a few things I wish I had known from the start. It would have made things a little better for me in the long run. Some of these are obvious to veteran players, but everyone starts somewhere, right? Here are some general bits of advice.
+
+
+
+After your first week of playing, you'll be able to choose an Avenger from a small selection. Now, depending on what kinds of characters you already have, your best choice here will differ. If you somehow still need a tank, the Tactician Captain America you can get here will certainly serve your needs. Black Widow is a devastating attacker, even after being toned down a bit, and both Thor and Hulk can be very powerful with the right set-up, particularly in PVP. I'd pass on Iron Man. Over time he eventually outpaces Hawkeye, but by the time you hit that point, you'll likely have already pulled him from your regular draws.
+
+Do your daily tasks. Obvious advice, but seriously. This will keep a steady flow of gold coming in that you can use for a lot of different things. Those tasks will also give you at least one Scouting mission's worth of points and a few crystal and power pulls. Better still, they're usually connected to things you are doing anyway, so it's not like it's a lot of trouble to finish them.
+
+Complete campaign tasks to unlock new characters and other rewards. To do this, you'll have to beat a full chapter on all difficulty levels, among other tasks. The characters you earn from this probably won't be replacing anyone on your team, but the rewards of the journey itself make it worthwhile. The same goes for Spec Ops, where you can unlock some strong characters and a lot of other great rewards by completing tasks. Note that completing the missions themselves is not the same as clearing out tasks. You'll have to check the tasks and see exactly what you need to do for each.
+
+
+
+The weekends are a good time to load up on Silver. You might feel like you have plenty of it early on, but the farther in you get, the more you'll be consuming. You can make some quick Silver by selling excess Iso-8 crystals, but don't forget about the weekend Scouting missions. You'll rack up a bunch of Silver in a very short time by running those, and they come around every weekend.
+
+Don't hoard your gold as you might in other games. The daily tasks ensure you have a steady trickle coming in, and since you don't need to have more heroes than it takes to build one good team, you don't necessarily have to conserve it to use for special pulls. I wouldn't be using it for extra spins on the mission rewards or anything, but if you want to use it to refill your Scouting mission points or to continue on a particularly tough mission, I'm not going to judge you. But if you're not using it for anything else, you might as well take a try at the 25-gold draw. If nothing else, you might get some new powers or ability points for powering up your current team.
+
+Change your party leader. Even if you're keeping Hawkeye in your active party, you should probably move him out of the leader position. You'll earn Silver if other players choose your character to assist them, and if you don't change your leader, you're just another one of a million Hawkeyes. Powerful tanks and damage-dealers make popular choices for the spot, as most players can use one or the other.
+
+That's all the advice I've got right now for Marvel: Avengers Alliance 2. I might come back to put together something more advanced later, particularly dealing with PVP. With balancing in a constant state of flux, though, I'm not sure how useful that might be. If nothing else, these tips will help you get on your way.
+
+

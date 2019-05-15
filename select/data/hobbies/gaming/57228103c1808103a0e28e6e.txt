@@ -1,0 +1,41 @@
+YouTube announced that it's updating its Content ID system. Upcoming changes to how content creators are affected by copyright claims aim to "help fix that frustrating experience," according to the YouTube Creator blog.
+
+Beginning later this year, YouTube will allow monetized videos that have been hit by third-party copyright claims to continue running ads during the dispute process. Once a resolution is reached, the revenue from those ads will go to either the original creator or opposing party. The infographic below explains how the new system will work in four steps.
+
+ 
+
+
+
+
+ 
+
+
+
+
+As of now, YouTubers who choose to monetize videos cannot earn money off them if disputing a copyright claim. Content ID claims are made by third-parties on content that uses footage or other trademarked property they say belongs to them. Thanks to the Content ID system, companies and other claimants can attempt to earn money off videos that, according to them, use their work.
+
+Video creators are given the option to declare these claims invalid; doing so under the current system, however, prevents them from making money through ads on their work until a settlement is reached.
+
+"We strongly believe in fair use and believe that this improvement to Content ID will make a real difference," the post said. "In addition to our work on the Content ID dispute process, we're also paying close attention to creators' concerns about copyright claims on videos they believe may be fair use."
+
+YouTube's parent company Google came under fire for the Content ID system back in 2013. Several gaming-related videos were affected by the process, which scans through videos in search of copyrighted material and can automatically generate infringement notices for rights holders. Ad-supported networks, like Machinima, and Let's Play creators were especially affected, as their videos are largely composed of gaming content created by major companies.
+
+"It's certainly a step in the right direction, albeit just a step"
+
+Since then, YouTube has attempted to make amends with its biggest creators. In November, the company expanded its fair use protection to include covering legal fees incurred by creators battling undue copyright claims. The company offers to pay up to $1 million on select videos, which it assesses and supports on an individual basis.
+
+Among those who have benefited from the new policy are Jim Sterling, whose Jimquisition series regularly uses video game footage — which has led to him becoming embroiled in copyright claim disputes.
+
+The Jimquisition videos also run ad-free, a point that Sterling notes in his latest video. Note the heavy amount of unrelated, big-name gaming content throughout the video below: There's a reason for it, as Sterling explains at the end.
+
+VIDEO
+
+Sterling doesn't choose to monetize his videos, but Content ID will still notify companies like Nintendo and Konami that their material is being used by unauthorized channels. That's a major failing of the system, Sterling says, and it's one that is easily exploited — and that he openly mocks.
+
+We reached out to Sterling about the proposed changes to Content ID by email. "It's certainly a step in the right direction, albeit just a step," he said of how YouTube will handle monetization during disputes. "It's nice YouTube finally decided companies shouldn't be allowed to effectively steal money, sometimes for literally no reason, based on an easily exploitable automated system. It does not solve the fact that the system itself is still easily abused, and it doesn't stop the fact that disputed copyright claims are still accepted or rejected by the claimant itself with zero oversight from anybody else.
+
+"The power is still firmly in the hands of those who have continued to ignore fair use exceptions, and I don't think this will make things any easier for content creators in the long run."
+
+Sterling expressed cynicism about YouTube's changes, which the YouTube Creator blog cited as just some of the major investments the company is making into bettering the Content ID system. The post also mentions that Content ID charges are disputed less than 1 percent of the time, and that it has a dedicated team working to resolve and prevent falsified claims.
+
+"I appreciate the gesture, but I've seen YouTube make gestures before that amounted that to a heap of shite, so I'm not prepared to dance a little jig in celebration of this," Sterling said. "I shall, instead, continue dancing to Erasure songs in videos in order to confuse [Content ID] and ensure no one company can put ads on my videos because three of them want to at once."

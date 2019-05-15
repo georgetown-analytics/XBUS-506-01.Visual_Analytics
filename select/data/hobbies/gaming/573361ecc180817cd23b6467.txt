@@ -1,0 +1,233 @@
+ 
+
+Summary:
+
+With development tools and game engines becoming cheaper and freer and the rise of engine-specific content marketplaces, an entirely new type of career is emerging: a self-sustaining, independent content developer that creates standalone products for sale to developers across the world for use in their projects. Whether it’s art, audio, code, scripting, or some combination thereof, I'm sharing my tips, tricks, and insights as the former Content Curator of the Unreal Engine Marketplace to give you and your company ideas for marketing, and how to be a developer's developer. This is not a self-sustaining career for everyone, but I'll show you what I've learned so you can decide if this makes sense for you or your company.
+
+Introduction
+
+Over the last few years, online marketplaces for content created by developers for developers have emerged as an increasingly viable option for independent game developers to prototype and develop their projects. This saves them thousands of dollars commissioning work from other developers, and also thousands of hours learning new peripheral skills that distract from simply prototyping and executing on their ideas. Inspiration strikes quickly and ultimately it’s about the end product. Having access to low-cost content and tools built by professionals is a valuable resource. I'll show you how to benefit from that as an indie developer, a content creator, a contractor, or any combination thereof.
+
+From sellsword to selling swords
+
+Over the last few years, many developers have started selling content that they develop for fun and turned it into a lucrative sideline. It’s a dramatic shift away from making money as either a full-time employee or a work-for-hire contractor. Selling components of a game as a product instead of a service is a very exciting and different way to develop games, especially with engine costs approaching zero. Many of them have actually become so successful at it that they’ve been able to leave their fulltime jobs and live on the income they generate. Again, they are in the vast minority on this, but it is starting to happen, and it's worth paying attention to. Whether or not you go down that path yourself, it can benefit you to be aware of people that do, because their efforts can benefit you and your projects.
+
+What do I want to sell?
+
+What’s your skillset? Artist, designer, scripter, coder, musician, or some blend thereof? Let’s start there.
+
+Your junk drawer isn’t hot product
+
+First, cast aside any idea that you can take old content you have laying around and can quickly flip it for cash. That’s the wrong mindset. Rummaging through your junk drawer to make a quick buck only fulfills your needs. And don’t think you can just crank out something simple in a single weekend and sell that. Your best chance for succeeding in this is developing content that fulfills the needs of other game developers, and this requires planning, research, and forethought. Being a developer yourself will give you some valuable insights into that, but you’re developing products for a large-scale audience, and that must always be kept in mind.
+
+Focus on your strengths
+
+Start from a position of strength. Don't learn a completely new skillset to compete in a market already full of experts in that skill. That's a frustrating uphill battle and not worth your time. To keep yourself motivated and encouraged enough to see this through, focus on creating something using your strongest skillset. The creative challenge is "how do I design this to save the time of a large number of developers?"
+
+Is there a market for this?
+
+People purchase content based on their passions and ambitions and the things that inspire and influence them. When they shop for content, they think of the pieces they need to assemble into the type of product they want. People first decide on the type of game they want to develop, and the first thing they seek is a "starter kit" for that type. The most popular type of product I've seen are prototype kits to fit specific game types. For example, kits for an RTS, RPG, FPS, tower defense, endless runner, and so on. After their prototype is at minimum functionality is when they look for art and audio. These markets are surprisingly large and are a great opportunity for independent content developers.
+
+Popular themes and trends
+
+In early 2015, I saw a spike in Minecraft-style crafting, survival, horror, and zombies. Each tied into the hot property of the moment, offset by the weeks it took to develop the content after the inspiration. People would create a set of props designed for survival games. Another example is a Blueprint-based crafting system for either Minecraft or survival games. Others created horror-themed audio packs, modular zombies, animated blood splatters, etc. The creators analyzed the games, reduced them to modular components, then designed content to mix and match.
+
+Pick a niche
+
+Pick your genre, theme, style, and platform. You can't be all things to all people. If you're not sure where to start, look at what the top selling games are in the last year. Then research what the biggest upcoming games are, based on press coverage and hype. Here's a sampling of games:
+
+Popular games and styles
+
+Fallout 4. First-person RPG, realistic post-apocalyptic, next-gen platforms.
+
+Madden NFL 16. Sports, realistic, next-gen platforms.
+
+Call of Duty: Black Ops 3. First person shooter, realistic war game, next-gen platforms.
+
+Legend of Zelda: Twilight Princess. Third person RPG, stylized\cartoony fantasy, Nintendo console.
+
+Halo 5: Guardians. First person shooter, realistic sci-fi, next-gen platform.
+
+Gran Turismo. Third person racing game, realistic, next-gen platform.
+
+Super Smash Brothers Brawl. 3D fighting game\brawler, cartoony, Nintendo console.
+
+World of Warcraft. Third-person RPG, cartoony fantasy, PC.
+
+The Elder Scrolls V: Skyrim. Third-person RPG, semi-realistic fantasy, next-gen consoles.
+
+Minecraft. First person world-builder, cartoony retro, current-gen consoles and PC.
+
+Select your audience
+
+This is a reasonable spread of the art styles and types of games that move a lot of units. These are the kinds of games that get the most attention from people at a broad level. They set trends that aspiring independent developers will emulate for their own projects. However, most of these are big-budget AAA productions. Customers seeking themed content inspired by these trends are usually small teams with modest budgets. It's important to factor that in, and to stay in touch with what's going on in the indie game dev community. Keep an eye on those trends, ebbs, and flows.
+
+Understand the indie games market and its trends. Follow indie game dev websites to see what's popular. What are people building? How do the games review? Identify gaps that need filling. Look for ways to simplify repeatable processes, especially if they're annoying. Finding annoying problems and solving them is a great way to win the hearts and dollars of potential customers. Bonus points if your product or description is worded in such a way that it can get favorable search rankings when people are looking to solve that type of problem.
+
+One excellent resource to find out what people are playing and what developers are creating is www.steamspy.com. That is a gold mine of information to help you market and design products. Write it down now. It's one of those things that's so amazing, you can't believe it actually exists.
+
+Keep an eye on geek culture
+
+It’s also well worthwhile to tune into other forms of media and geeky culture. Is there a major movie, TV, or comic book release coming in the next few months? Something big, like an Aliens sequel, a new Avengers movie, the new season of Daredevil, the TV adaptation of Preacher, or really any other influential, beloved property that’s going to land in the coming months. Even science can be exciting and drive sales. When I was running the Unreal Engine Marketplace, I saw a massive spike in space-themed content of all types after NASA started showing off the high-res closeup photographs of Pluto. Tying in your product to something reminiscent of that need or that ties into it meaningfully could be a good way to drive interest and sales. Follow indie game dev websites, see what’s popular, see what people are building, and analyze your competition to see how well that need is being filled.
+
+Reduce the games to components
+
+Pick apart the games and think of what types of components they're made up of. For example, Fallout 4 is an RPG. An RPG has various systems that can be reduced into modular component parts, NOT counting art and audio:
+
+character creation (visual customization + UI)
+
+combat (weapon types, enemy types, damage, etc)
+
+armor (defense bonuses, etc)
+
+weapons (damage bonuses, weapon modding, etc)
+
+XP \ leveling
+
+vendors (buy\sell\repair)
+
+minimap (tracking agiainst real map, fog of war, etc)
+
+speech and branching dialogue systems
+
+quests (quest givers, and ties into XP\leveling, speech, etc)
+
+AI (NPC and enemy)
+
+stealth
+
+locking\unlocking doors
+
+Each of these is a modular component that has been turned into at least one product. If you have a particular skill set that can develop one of these, take a look at the market and examine the precedents. What can you do better? How well does it review?
+
+How do I build it?
+
+After you’ve picked a market and a niche to fill, spend time thinking about not only how end users are going to ultimately use your content to build their games, but also how it can fit together with other pieces of content. At Epic, I created lists of products that worked well when used together to help promote content. It helped connect creators, and gave them ideas for comarketing and collaboration. Not everyone needs to be a competitor.
+
+For example, this is a list of content you can use to build a fully functional third person multiplayer shooter for less than $500:
+
+Gameplay: Generic Shooter. This Blueprint system will help you flesh out all your FPS's basic systems.
+
+Level prototyping: SuperGrid. This is a level prototyping kit for laying out full levels and gameplay.
+
+Player character:Military Character Silver.  Here's a soldier character rigged to the default Unreal skeleton. You can use any Marketplace animation set with this!
+
+Animations:Rifle Animset Pro.  Professional motion captured animation for all movement associated with two-handed weapons. Apply this to your military character above!
+
+Weapons:Weapon Pack: Assault Rifles.  This is a set of randomizable procedurally-generated combat rifles for your soldier.
+
+Environment art:Urban Construction Pack.  This is a well-desgined set of modular props to flesh out urban city levels with after prototyping with SuperGrid.
+
+VFX:Bullet VFX Pack.  Add these pre-made bullet FX to bring your weapons to life as you take it from others! This contains FX for bullets hitting metal, brick, concrete, ice, flesh, and more.
+
+Sound effects:Universal Sound FX.  This is a great variety pack of audio to add a broad range of basic sound effects.
+
+Music: Blockbuster Tension + Action Music Pack.  After all, you need good music!
+
+To tie it all together, add a modular UI system and frontend.
+
+How do I price it?
+
+Here's the tricky question! Setting a price on content to sell on a marketplace is fundamentally different than setting a price for contract art services. One is a product, and one is a service. You sell services once, you sell a product as many times as you can. Commissioning a character might take 40 days at USD $200 per day, but you're not going to sell that on a marketplace for the $8000 it cost. Most people buying content don't know the price of these services or the labor involved. To be realistic, someone with an indie budget might balk at spending even $100 for it.
+
+There are a wide variety of factors in how you decide on a price to set. The first and best way, of course, is to look at what other people charge. That's your baseline. The second way is to put yourself in your customers' shoes as they try to decide if it's a good price or not. All they have to go on is your presentation materials and the price. So they ask themselves: "How many and at what price?"
+
+If you're looking at a pack of props, for example, 100 props for $20 averages out to $0.20 per prop. Not bad! But 10 high-quality PBR rocks for $80 is $8 per rock, and that's 40x more per prop. What about a set of 3 background mountains for $125? Geez, that's $41.66 per mountain, this is getting expensive!
+
+I'm sure you're thinking that this is a comparison of apples and oranges. And to you, it is. There are massive variables including quality, texture resolution, polygon count, modularity, and much more. You also know exactly how long it took to develop, but that doesn't matter to anyone but you. To the consumer, unit price will be the first consideration. Fortunately, you can still work with that.
+
+The next question the consumer asks is "how much can I do with it?" This is where you differentiate yourself from the competition and justify the price you set. People love knobs, dials, controls, and customization.
+
+How do I convey value?
+
+The best answer I’ve found is to illustrate the value by showing how you can save time by compounding effort. “With this set of 50 modular cave pieces with randomized materials, you can create thousands of possible cave configurations in minutes. Just click to draw, and flip these switches and see what you get!” People love modularity, randomization, sliders, swappable parts, and procedural generation.
+
+The sales pitch there is giving someone the tools to create almost anything they can imagine for the game of their genre. That’s harder to quantify and harder to put a price on, so if you can start out with a basic number of modular parts or bullet points that they’ll do the basic “how many and at what price” math on, you can increase the price even more beyond that by adding the procedural and customization options, as well as making it *really* easy to use. Adding tutorials, documentation, and demo levels is also a confidence booster if your content is expensive.
+
+“I want to make caves with dungeons — oh wow, this pack is $85, but I could make thousands of them with this. It comes with 40 walls, 16 kinds of stalactites and stalagmites, and includes a demo level showing how it all fits together. I’m sold!”
+
+Really, how much should it cost?
+
+With all of the above in mind, the best way to determine cost is still to examine your competition's pricing, and to simply ask people in the community for their input. Ultimately, it's all completely subjective, and there are some advantages to be found by including polling on price with your community outreach and marketing efforts.
+
+From what I've seen across all the different online marketplaces I know, my work with these communities, and from content creators themselves, the following is a rough summary of favorable price points: As for actual dollar amounts, impulse purchases can be almost anything $30 and under. If you set a price above $50, include a well-produced video to demonstrate your content. Think of it as a short commercial. Invest effort into it and make it look clean and polished. Convincing people to spend more than $50 requires more effort, and a good video is a powerful sales tool. More on that in the next section.
+
+As a rule of thumb, anything above $50 should have more supporting content. A short commercial, video tutorials, written documentation, and ongoing support threads increase buyer confidence. If you keep the buyer's confidence high and engage with your customers, you can justify higher price points.
+
+Anything priced from free to $5 is often considered to be low value or bad. I would recommend always pricing your content at least $10 or above. The perception is that cheap\free means low quality. If it looks good but is cheap, people will wonder what's wrong with it. That's why it's important not to price your content too low. You can always lower the price later to increase perceived value, but never the other way around. "This $5 pack is now $25? What gives? I'm not buying cheap garbage!" People are very sensitive to that. Don't make your product look cheap, and don't immediately limit your profitability and brand yourself as the person that makes cheap content.
+
+Finally, remember that anything you sell in European countries is going to have an additional ~23% Value Added Tax (VAT) added to the price. The exact value varies country by country, but it's usually around this level. Look it up to be certain. Keep this in mind when setting your prices, and be prepared to answer a lot of questions about it.
+
+If you've done all this and are still not sure, again, ask your audience!
+
+What makes a good video?
+
+Keep it between 90 and 120 seconds long. Ease of use and the end product are what is most important. Begin with examples of the finished product, then show your content in the editor. Show the controls and options you provide. Demonstrate the most useful and visually interesting configuration options your content offers. Remember that this is just a commercial to sell your content, not a tutorial video. Long tutorial videos are a must if your content is complex, and they add value. However, it is not a substitution for a commercial. On its own, a lengthy tutorial is a terrible sales tool for most people. Think of it this way: the commercial sells the product, and the tutorial is the product instruction manual.
+
+Dazzle them with video of how it could work, then show them what knobs they can turn to use it. Try to keep it under two minutes, and you'll be in a strong competitive position. The easier it is for the buyer to visualize "what is it? Now how can I do it?" the faster you'll get them interested.
+
+Finally, having a lengthy tutorial video can help convince the more cost-conscious, technically-minded prospective customers. For that limited subset of your customer base, a tutorial is essentially a supplemental sales tool. For the rest of your customer base, it's valuable documentation, and it's seen as added value whether or not they actually use it. That's an important point: Sometimes the feature that makes the sale isn't even a feature they'll use. It's still equally important.
+
+How do I build a loyal user base?
+
+Live where you sell. Join the forums where creators like you hang out. This is a good place for potential customers to shop around for content that's in development.
+
+When dealing with potential customers on the forums, be responsive. Create a dedicated support email address, and a support thread on the forums where you sell. Interact with the community, make friends, answer questions, be respectful, and listen. You won't always have answers that will satisfy. That's fine. The simple act of responding and listening is important for building customer relationships.
+
+It's important to know that for every person that responds to you, there are ten that are lurking. It's easy to make or break a reputation based on how you interact with people in public. Pay attention to how you're perceived when interacting on forums. Always treat others the way you'd like to be treated. It's good general philosophy, and people also make purchasing decisions based on the behavior they observe.
+
+Join forums
+
+Get invites to Slack and Skype chats
+
+Find or create a Twitter list for interesting or influential people and interact with them there
+
+Join Facebook groups
+
+Don't lurk. Interact in a positive way. Encourage people, be positive, give constructive feedback when requested, and support those around you. Always add value.
+
+Embed yourself and publicize
+
+Embed yourself with other content creators. It's a great way to find potential collaboration and comarketing partners. Go where they go, and emulate them. Get involved with other creators in your community and surround yourself with them. Making friends that work toward the same goals you have is a great way to stay motivated and interested. You are the average of the five people you spend the most time with. This also puts you in the position to discover opportunities as they arise, either for yourself or others.
+
+Create ongoing development threads for your content. It's a great way to build publicity in advance of your content releases. You can also receive valuable input and feedback from other creators and potential customers. Engagement is a strong differentiator, both before your content releases and after.
+
+Analyze other creators’ work
+
+Analyze your competition. What works? What doesn't? What are the most common complaints on forums? What do people identify as being positive? These are valuable data points for positioning both your product and customer support efforts.
+
+Look for other creators whose content complements yours. Always keep an eye out for potential collaborators, because you can help promote each others' work. Every competitor is a potential future partner. Their value as a content creator is equal to their power of their network and reach.
+
+Analyze your competitors' content through the lens of a potential customer, not as a competitor. Content that may seem mediocre on the surface may be valuable and widely loved. At the same time, content you think is amazing may be difficult to work with and widely loathed. This is where reviews and public feedback are crucial: people are communicating what is valuable to them and worth spending money on.
+
+Another strong differentiator is the quality of support the developer provides, if any. Do they consistently update their content with bug fixes? How do they interact with their community? Are they deeply involved, or do they view content development as a dumping ground? I've seen smart creators crush their competition by being responsive and offering better support, even if the quality is lower. People feel more comfortable buying content from people they like and believe will support them, even if they're only spending $30.
+
+Set up a support structure
+
+Set up a separate email address and an online support system for all support requests. Here's a list of support ticket software from least to most expensive:
+
+These are all viable options for tracking your support requests. This is important: stay on top of customer support. It's not optional. This is how you build a good reputation. Word of mouth is everything, and these are simple and cheap ways to stay organized. This is something I hammered on Marketplace sellers to maintain. I've even removed content from the Marketplace for people that wouldn't support their products. This has a direct effect on sales, loyalty, and repeat customers.
+
+If you cannot personally handle customer service, or have someone in a dedicated role to handle it for you, don't sell content online. After quality, providing good customer service is going to be the biggest differentiator that makes you stand out in the crowd. It's not always a pleasant job, but sucking it up and being great at it anyway will give you an incredible advantage over others that won't. And if you won't, this is exactly how your competitors will eat your lunch and earn customers that could have been yours.
+
+Where do I sell it?
+
+It depends on the market you’re targeting and the game engine you’re building. Here are a few of the markets:
+
+They all have their strengths and weaknesses. Naturally, I recommend the Unreal Engine Marketplace because I helped build it, but you may prefer asset stores with a larger content base or that specialize with different engines or types of art, such as architectural visualization. Shop around, see what appeals to you, check in with their communities to see how they are, and familiarize yourself. At this point, I recommend developing a content production pipeline that makes adapting your content for compliance and sale on as many different marketplaces as possible.
+
+Tips and tricks for success
+
+If you're in the US, form a limited liability company (LLC). For more information on limited liability companies and the other types of companies you can form, check out this helpful page from LegalZoom. I've formed two LLCs through LegalZoom and I highly recommend them. Get an accountant. Be smart and organized about this from day one.
+
+The most important thing you can do when supporting your customers is to acknowledge them quickly. Even if you don't have an immediate or even satisfactory answer for their concern, this is important.
+
+This is the best piece of advice you'll get in this entire presentation: When doing work-for-hire content for your clients, identify which of your assignments could be sellable product. Negotiate a lower rate if they accept non-exclusivity so you can sell them on an online marketplace. You can open yourself up to a larger client base, make work-for-hire money, and generate a recurring revenue stream and a library as you do it.
+
+Ship something every month. A regular release schedule and a library of content is important for marketing beats and re-promoting your earlier work. It'll keep your motivation high.
+
+Indie devs: If you're working on a game, consider selling some of the content you develop for it on an online marketplace. You can promote your game, attract talent and interest, and monetize early. Remember: Kickstarter is even more of a marketing vehicle than it is a fundraising tool.
+
+Contractors: Selling content on a marketplace is an excellent marketing vehicle to drive interest toward your service-based offerings. What you get is publicity, reach, and an audience that will spend money for your product. If they want a more customized version of what you sell, or if they really like what you do and want to pay you to do it, let them. This could be your way out of a job you don't like.
+
+Good luck out there!

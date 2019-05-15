@@ -1,0 +1,93 @@
+I love meticulously laying out my Stardew Valley farm, making sure each fence post and parsnip are in exactly the spot I want them. And you're given so much space to work with that it's easy to dream of a sprawling field of crops and livestock, all designed however you think is right. Unfortunately, that sprawling landscape means you'll typically never see your entire farm on screen at once. And honestly, what's the point of spending hours grooming your digital homestead if you can't show it off to anybody? 
+
+
+	Well I'm happy to say that we've found a way to take full resolution screenshots of your entire farmland relatively easily, with the simple use of Durante's GeDoSaTo tool. Our hardware editor Wes Fenlon has written about the wonders of GeDoSaTo before, and we frequently use it to take high-resolution screenshots for our Pixel Boost series, but it has a slightly unique effect on Stardew Valley. 
+
+
+	GeDoSaTo allows you to run games at extremely high resolutions, and then downsample them to work on your monitor. But Stardew Valley's camera scales with your resolution—meaning the higher the resolution is set, the more zoomed out you will be. Read on to find out exactly how you can crank Stardew Valley's resolution up to 8K, making your entire farm visible on any resolution monitor, and then take full-res screenshots of it. 
+
+Setting up GeDoSaTo
+
+
+
+
+
+	The first step is to download and install GeDoSaTo. Make sure you follow the installation instructions on that page, and don't worry, it's all safe. We trust Durante so much we often have him write for us.
+
+Whitelist Stardew Valley
+
+
+	Once it's installed, you'll need to adjust a few settings, but GeDoSaTo makes that pretty simple. Open GeDoSaTo and click the "Whitelist" button on the right. Scroll down to the end of the list, start a new line, and then type "Stardew Valley" exactly like that but without the quatation marks. Hit the "Save" button at the bottom and then the "Close" button. This will give GeDoSaTo permission to change the game's resolution
+
+
+
+
+Turn on screenshots
+
+
+	Next, click the "Edit Keybindings" button. Near the top of the file, you should see a line that says "#takeFullScreenshot VK_DIVIDE". All you have you to do is delete the "#" at the start of that line. This will make it so pressing the division key on your numpad (which looks like a forward slash, usually) while in game takes a screenshot the size of whatever resolution the game is running at. 
+
+
+	If you don't have a numpad or want to rebind the key, feel free to do so by replacing "VK_DIVIDE" with something else. Instead of looking up the proper format for each key, it's probably easiest to choose one of the function keys, which would be done by using "VK_F1", "VK_F2", and so on through "VK_F12" depending on which key you want to use (again, without the quotation marks).
+
+
+	Now hit the "Save" button and the "Close" button again.
+
+
+
+
+Fix the mouse
+
+
+	You're almost ready, but right now the mouse won't work on part of the screen when you bump the game to higher resolutions. To fix this, click the "Edit Settings" button. First, while we are in this menu, make sure there is a line in the "Graphics settings" section near the top that reads "renderResolution 7680x4320@60" and that there isn't a "#" before it. It should be there by default. If not, add it with the other "renderResolution" lines.
+
+
+
+
+
+	Then, scroll almost all the way to the bottom—the second to last section should be called "Mouse settings". Near the top of this section, you should see the two lines "modifyGetCursorPos false" and "modifySetCursorPos false". For both lines, delete "false" and write "true" (without the quotation marks). Once again, hit the "Save" button and then then "Close" button. 
+
+
+
+
+
+Now make sure the "Activate" button is greyed out (click it, if not) and you are ready to go!
+
+Running Stardew Valley
+
+
+	This is the easy part. First, just to be safe, you can choose to back-up your save file. There really isn't any risk of something going wrong here, but it's never a bad idea to safe rather than sorry. You can find your save data in "C:\Users\[YOUR PC USERNAME]\AppData\Roaming\StardewValley\Saves", just make a copy of your character's folder, because why not?
+
+A quick note
+
+
+		For the two drop-down menus for "Window Mode" and "Resolution", you'll need to hold the mouse button down, hover over your choice, and then let go. And oddly, the game would always put me in windowed mode the first time I selected fullscreen, but then would actually go into fullscreen the second time. Who knows why, but it may work that way.
+	
+
+Increase the resolution
+
+
+	Now let's get to the good stuff! Simply start Stardew Valley and load into the game you want to take a screenshot of. Once in game, hit escape and go to the "Options" tab. Scroll down to the Graphics section and put the game into "Fullscreen". Then click resolution and scroll all the way down to "7680x4320". 8K resolution, baby. If you don't see the higher resolutions in the list, make sure you've set up GeDoSaTo properly and that the program is activated.
+
+
+	You should now be running the game downsampled from 8K, which you will notice by the immense amount of black space around the now tiny settings window. Hit escape to close the menu and step outside to behold the wonder that is your entire farm!
+
+
+
+
+Take a screenshot
+
+
+	At this point, you should just be able to hit the division key on your numpad (or whatever you set it to) and see a little message in the top-left corner of the screen from GeDoSaTo saying it had saved the image. The default path for where the images will save is "C:\GeDoSaTo\screens\Stardew Valley", so make sure it is there and that the resolution is 7680x4320. If so, congratulations! Now go show your farm off to the world. 
+
+
+	Otherwise, there may be trouble in the water. I occasionally got a message that said "Failed taking screenshot! (STBI)" and wasn't sure what it meant, but it prevented me from saving screenshots at all. The problem seemed sporadic, but I managed to sort of fix it by going back into GeDoSaTo's Settings file, scrolling to the very bottom, and changing the number after "maxScreenshotParallelism" then saving the file. I tried pretty much all the numbers between -1 and 4, but they all had mixed results. "0" (without the quotation marks) seemed to work well sometimes but not always. It could occasionally be jostled into working by stepping from one screen to another within the game.
+
+ "-1" worked the most consistently for me, but it also took way longer to take the screenshots and the files were saved as BMPs instead of PNGs, so they are huge and hard to use. I've reached out to Durante to for his thoughts on the issue.
+
+Brag to the world
+
+Strangely enough, you can actually play the whole game like this, with most of the map's entirely visible on your screen at once. Though I don't imagine it's a great way to be precise. 
+
+
+	I hope this guide was helpful, and let us know in the comments below if you got it to work or ran into trouble. We will admire your farm or try to help, respectively. Also, get those farms looking good, because soon we'll be asking for you to submit the coolest looking one's you've made for a community gallery on the site.

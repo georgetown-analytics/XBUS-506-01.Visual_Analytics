@@ -1,0 +1,75 @@
+ 
+
+
+
+Being a broken pile of nuts = the result of never-ending crunch.
+
+There's a lot going around the internet now about Alex St. John and his espousing 80-hour work weeks as this paramount dedication to your craft. After getting over my initial disgust and checking out the epic takedowns that resulted then writing about it on my own blog, I was more interested in seeing the reactions from other game developers of all calibers to this whole blowup.
+
+As a financial freedom advocate for indie developers, and someone who just really loathes the whole live to work mentality that has permeated American culture as a whole, I found myself feeling mystified and saddened reading the comments of this Destructoid piece. There were plenty more reactions I read all around the internet, with a majority rallying against crunch and working until you literally drop. But I found it so rife with "this is why I didn't go into gaming" and "this is why I will never chase my dream".
+
+How much innovation and creativity do we as a society seriously lose every year as a result of being an actual...wage slave? How much does the games industry in particular lose out on?
+
+How many talented people curl in on themselves and give up because of burnout?
+
+How many people don't even give game development a try because of toxic environments-- or simply just the fear of ending up in one?
+
+There's a couple different facets to this whole thing: using passion as justification for low pay and horrific work conditions, indoctrination that your passion won't pay, and a "live to work" culture that does no one any favors.
+
+Passion Isn't an Excuse to Treat Someone Like a Subhuman
+
+If there's one very good thing that's happened as a result of this op ed going around? Aside from spurring more talks about how crucial work-life balance is and how it's terribly lacking in many workplaces, it's also getting people talking about how it's a terrible phenomenon that game studios and other employers who need creative talent are notorious for not paying people a living wage because so many people are passionate about their craft and having a chance to work at it is supposed to be good enough. That if that person gets fed up with the work environment, someone else will be nipping at their heels to work hellish hours for peanuts.
+
+This attitude is problematic and has led to this allover systemic and cultural devaluation of creative skills: it's why we never stop hearing things like "Have fun serving coffee for minimum wage with your art degree! Why didn't you major in something useful like accounting?" Yet they would be utterly clueless if they tried to make their website or branding materials look spiffy on their own time. Or have no idea what a vector is.
+
+There's the disrespect side, then there's the expectation that creative endeavors are solely for fun and therefore not worthy of pay. You know, the "But won't you do it for EXPOSURE!" types. (Exposure to people who also don't want to pay for your time?) The kind who espouse going on race-to-the-bottom content mills to pay $5 for work, while wanting to charge premium prices for their end product.
+
+Passion is no excuse to underpay someone.
+
+If you're a game developer, a writer, musician, artist, some combination of the above: you should have no reservations about asking to be paid for your work. None whatsoever.
+
+I got a friend who teaches music lessons and does performances at weddings with other session musicians. She's a hard worker with an advanced degree and a teaching license. People have had the gall to think the band will seriously perform for free or take payment in food, then balk at the price tag when she tells them how much it will actually cost to hire the band for the event. When well, you're paying for her years of education and training. The quality instruments she invested in. Then the simple fact that the rehearsal space for that shitty version of Canon in D Major that you want also costs money, as does renting a van to and from the venue. Payment in dinner? How nice. A mass catering pack chicken cutlet doesn't pay rent or help put gas in that van.
+
+While the couple throwing the wedding isn't exactly in the same boat as a publicly-traded company that makes millions, if not billions, of dollars on the backs of burnt-out creative people feeling that their passion is definitely not paying them, it's a similar idea. Talented developers have invested in their skills and spent a great deal of time and money doing so.
+
+Look, this doesn't even start and stop in creative fields. Talk to any given public school teacher about the vitriol they get during every election cycle despite how important their work is to society, and how much money and time they have to invest in their degrees, licenses, and continuing education. Then take a look at the pay for a lot of jobs in hard sciences: many grads earn less than the average English major. Despite busting your hump trying to find cures to diseases, many scientists are expected to toil for this crappy pay because of PASSION just like teachers.
+
+Or the "just do it on the side!" mentality. Man, if EVERYONE worked on their passion on the side then we'd not only never have new games, but also no new movies, TV, books, or anything else that makes life less of an endless travail with no end in sight. Does anyone ever suggest doing brain surgery on the side? Hmm, yet these same people would get upset if their favorite shows and game franchises just completely halted production and nothing was ever made again.
+
+But Passion *Can* Pay
+
+I grew up during the golden age of adventure gaming and started college right after 9/11. Those games I played put a dream in me that I thought had to die by the time I was college-age and the industry was going through its awkward teenage years. Game design programs in schools? There was no such thing back then. If you wanted to go into games, your only option was to move to California or Washington then fiercely compete to get into one of these big studios just to risk being out of a job in six months anyway.
+
+It didn't exactly give me the impression that game development was inherently entrepreneurial unless you had access to millions of dollars and would put down roots in California.
+
+Things drastically changed by the time I was done with my first degree at the height of the recession: suddenly there's all these new platforms and tools for people to make games with. That people who never set foot in a AAA company before could pick up one of these tools, form a fanbase, and actually make a living.
+
+No less, I was still heavily indoctrinated into believing that starting a business was too risky. I had zero business mentors at home or in college: wasn't the purpose of putting my life on hold going to school was so I could get a good job? I figured my passion wouldn't pay. That my accounting degree would surely land a nice stable job that will allow me the time to do what I want in my spare time? To just maybe do game dev on the side?
+
+I did not come from a AAA background so I can't talk about being in the trenches getting a multi-million dollar game out with someone else dictating my schedule. No, I suffered in the tax industry where I wound up meeting my future business partner. An industry that frequently forces its workers to work 7-day weeks during tax season (funny this all went down right before Tax Day, huh?) and is one of the biggest arbiters of wage theft right after retail and fast food-- whether it's a national chain or a tiny firm-- because of the ridiculous hours you're often forced to work. When I escaped the tax gulag two years ago, I had a persistent facial tic that took almost three months to go away because I was so sleep-deprived. My blood sugar got out of whack from both sleep deprivation and having little time to eat, and my digestive tract also took about a month to go back to normal as my appetite was also gone due to stress. Do you think ANY job is worth that? I was just doing tax returns for wealthy Manhattanites. I wasn't in there curing cancer or working on my passions. Even if I was doing one of those things, no paycheck is worth developing physical health problems one didn't have before working there.
+
+I saw things in the tax gulag that forever changed my views on money and life, and vowed I'd never give up my humanity in my quest for having the financial freedom to make games: I expanded that to helping other indies do the same and began a second business after realizing what a huge smack in the face my old career path was.
+
+I'm passionate about making games but also about helping other indies understand business: with consulting, teaching classes, blogging, hitting up conventions, and taking on short-term and long-term contracts with companies who want to do business with game developers but don't know how to reach us.
+
+There ARE ways to make your passion pay. One part of it is finding the right platforms and methods to do so. The other part of it is demanding that you be paid what you're worth and refusing to back down. When employers and clients start doling out the "be thankful I'm giving you this opportunity!" lines, RUN don't walk.
+
+
+
+Particularly if you're being held at banana-point while they say it.
+
+Making Time For Real Life
+
+So you've taken the plunge. You've gone to work for a studio or are putting your own funds in on going indie. Suddenly you don't see games the same anymore.
+
+The sheer amount of work that goes into making a game, let alone running a studio, can definitely be a passion killer. There's no bones about it. There are indeed people who will run away screaming when they see that the indie life isn't what they thought it was going to be. If you're going indie, you need to have more business acumen than if you want to work for a studio. Both are respectable paths, and deserve to have their time and wellbeing respected. Rami Ismail really said it the best with "Please be in the games industry if you want to make games and care. I don’t care if you want to make games for two hours every night after work or for 40 hours for a paycheck or for 80 hours as an entrepreneur. Just don’t make others pay with their health for your shitty scheduling."
+
+Crunch does no one any good. No one should be forced into 80-hour work weeks period, let alone unpaid for extra time. I'll let the people who've been in AAA attest to that, I have different crunch experience as you just read and will forever advocate for a human work schedule that takes real life into account.
+
+But I can speak for the indie life. Indies often swallow this "live to work" mantra and force said shitty scheduling onto themselves, which is problematic. Many people are indoctrinated to think that working for yourself automatically means having to go it all alone and work 80-120 hour weeks just so you can release your game as fast as humanly possible on account of having little or no income for a protracted timeframe if you're going all in on the timing part. It doesn't have to be this way. You can scale back. You can delegate personal, business, and development-related tasks so that you can not only make a great game but also have time for a personal life. Refusal to delegate is one of the biggest reasons businesses of all types fail. It's crucial that you make time for self-care, friends, family, community, and your life outside of game development.
+
+There's no Steam achievement that unlocks because you're not getting enough sleep or you completely stopped having a social life so you could spend all your nights working on your game. You don't know what could happen tomorrow. The "sacrifice everything now so you can have it all in the future!" mindset is harmful because you don't know what the future holds. It's easy to be just one accident or illness away from losing everything and if you don't have your health, what the hell do you have? I also say this as someone who sacrificed my youth thinking I'd cash in on a nice tax advisor career, that if I just worked hard it would pay off and I could be free to make games and do whatever else I wanted. Yeah...that didn't exactly pan out after the recession hit.
+
+Ever since the National Endowment of the Arts decided to make games eligible for their grants, there's been massive debate ever since about whether games or really an art or just business. If you see games as art, who the hell says you have to suffer for your art?
+
+Crunch needs to be abolished as does terrible work-life balance. And if you work for yourself, be kinder to yourself. We don't have a lot of time on this earth. If you choose passion and are trying to make it pay, remember that there's more to life than work. If we want not just better games, but a better world to live in, the discussions need to continue on work-life balance and valuing all labor not just business and tech labor.
